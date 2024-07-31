@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "abyssal_decor:block/brickcaptop",
+    "top": "abyssal_decor:block/brickcaptop",
+    "side": "abyssal_decor:block/brickcapsideflipped",
+    "overlay": "abyssal_decor:block/brickcapsideflipped",
+    "particle": "abyssal_decor:block/brickcaptop"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "abyssal_decor:block/whitewoodplanks",
+    "particle": "abyssal_decor:block/whitewoodplanks"
+  },
+  "render_type": "solid"
+}

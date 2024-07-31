@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/hangingmosswall",
+  "textures": {
+    "all": "abyssal_decor:block/hangingmoss",
+    "particle": "abyssal_decor:block/hangingmoss",
+    "0": "abyssal_decor:block/hangingmoss"
+  },
+  "render_type": "cutout_mipped"
+}

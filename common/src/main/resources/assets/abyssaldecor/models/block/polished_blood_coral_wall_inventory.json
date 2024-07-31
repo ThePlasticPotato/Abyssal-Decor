@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "abyssal_decor:block/bloodcoralpolished",
+    "particle": "abyssal_decor:block/bloodcoralpolished"
+  },
+  "render_type": "solid"
+}

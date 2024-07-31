@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "abyssal_decor:blocks/whitewoodplanterbottom_ctm"
+        ]
+    }
+}

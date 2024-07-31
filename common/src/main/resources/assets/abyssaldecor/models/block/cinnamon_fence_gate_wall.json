@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "abyssal_decor:block/cinnamonplanks"
+  },
+  "render_type": "solid"
+}

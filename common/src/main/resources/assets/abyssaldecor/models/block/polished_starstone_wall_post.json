@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "abyssal_decor:block/starstone_polished",
+    "particle": "abyssal_decor:block/starstone_polished"
+  },
+  "render_type": "solid"
+}

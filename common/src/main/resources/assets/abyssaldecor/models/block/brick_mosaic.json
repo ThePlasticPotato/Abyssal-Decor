@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "abyssal_decor:block/brickparquet",
+    "particle": "abyssal_decor:block/brickparquet"
+  },
+  "render_type": "solid"
+}

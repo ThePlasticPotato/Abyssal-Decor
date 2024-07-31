@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "abyssal_decor:block/cinnamonsapling",
+    "particle": "abyssal_decor:block/cinnamonsapling"
+  },
+  "render_type": "cutout"
+}

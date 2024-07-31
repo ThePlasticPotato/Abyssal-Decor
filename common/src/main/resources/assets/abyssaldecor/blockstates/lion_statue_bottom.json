@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/lion_statue_bottom"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/lion_statue_bottom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/lion_statue_bottom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/lion_statue_bottom",
+      "y": 270
+    }
+  }
+}

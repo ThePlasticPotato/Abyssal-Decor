@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/moldylogtop",
+    "up": "abyssal_decor:block/moldylogtop",
+    "north": "abyssal_decor:block/moldylogside",
+    "east": "abyssal_decor:block/moldylogside",
+    "south": "abyssal_decor:block/moldylogside",
+    "west": "abyssal_decor:block/moldylogside",
+    "particle": "abyssal_decor:block/moldylogtop"
+  },
+  "render_type": "solid"
+}

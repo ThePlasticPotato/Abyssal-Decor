@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/wallpaperlimeb",
+    "up": "abyssal_decor:block/wallpaperlime",
+    "north": "abyssal_decor:block/wallpaperlime",
+    "east": "abyssal_decor:block/wallpaperlimer",
+    "south": "abyssal_decor:block/wallpaperlime",
+    "west": "abyssal_decor:block/wallpaperlimel",
+    "particle": "abyssal_decor:block/wallpaperlimeb"
+  },
+  "render_type": "solid"
+}

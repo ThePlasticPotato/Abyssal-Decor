@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "abyssal_decor:blocks/whitepearldoorbottom",
+    "top": "abyssal_decor:blocks/whitepearldoortop"
+  }
+}

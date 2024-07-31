@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/small_clean_iron_bars"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/small_clean_iron_bars",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/small_clean_iron_bars",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/small_clean_iron_bars",
+      "y": 270
+    }
+  }
+}

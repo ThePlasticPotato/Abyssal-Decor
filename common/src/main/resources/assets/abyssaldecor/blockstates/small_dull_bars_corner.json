@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/small_dull_bars_corner"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/small_dull_bars_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/small_dull_bars_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/small_dull_bars_corner",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/deskbell",
+  "textures": {
+    "all": "abyssal_decor:block/deskbell",
+    "particle": "abyssal_decor:block/deskbell",
+    "0": "abyssal_decor:block/deskbell"
+  },
+  "render_type": "solid"
+}

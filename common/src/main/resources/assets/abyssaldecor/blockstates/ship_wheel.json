@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/ship_wheel"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/ship_wheel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/ship_wheel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/ship_wheel",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssal_decor:block/ship_wheel",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssal_decor:block/ship_wheel",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/velvetcurtainbottom",
+  "textures": {
+    "all": "abyssal_decor:block/velvetcurtainbottom",
+    "particle": "abyssal_decor:block/velvetcurtainbottom",
+    "3": "abyssal_decor:block/velvetcurtainbottom"
+  },
+  "render_type": "cutout_mipped"
+}

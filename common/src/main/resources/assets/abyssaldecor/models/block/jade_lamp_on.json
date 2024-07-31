@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/jadelampon",
+  "textures": {
+    "all": "abyssal_decor:block/jadelampon",
+    "particle": "abyssal_decor:block/jadelampon",
+    "1": "abyssal_decor:block/jadelampon"
+  },
+  "render_type": "cutout_mipped"
+}

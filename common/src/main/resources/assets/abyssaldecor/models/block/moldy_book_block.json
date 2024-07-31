@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/moldybookblocktop",
+    "up": "abyssal_decor:block/moldybookblocktop",
+    "north": "abyssal_decor:block/moldybookblocksideflipped",
+    "east": "abyssal_decor:block/moldybookblockfront",
+    "south": "abyssal_decor:block/moldybookblockside",
+    "west": "abyssal_decor:block/moldybookblockback",
+    "particle": "abyssal_decor:block/moldybookblocktop"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "abyssal_decor:block/pearlblockcut",
+    "top": "abyssal_decor:block/pearlblockcut",
+    "side": "abyssal_decor:block/pearlblockcut"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/wisteriaelderbottom",
+  "textures": {
+    "all": "abyssal_decor:block/wisteriaelderbottom",
+    "particle": "abyssal_decor:block/wisteriaelderbottom",
+    "2": "abyssal_decor:block/wisteriaelderbottom"
+  },
+  "render_type": "cutout_mipped"
+}

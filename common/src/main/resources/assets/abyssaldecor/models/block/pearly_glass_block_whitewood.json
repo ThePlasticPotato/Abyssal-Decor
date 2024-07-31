@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "abyssal_decor:block/pearlyglasswhitewood",
+    "top": "abyssal_decor:block/pearlyglasswhitewood",
+    "side": "abyssal_decor:block/pearlyglasspanewhitewood",
+    "overlay": "abyssal_decor:block/pearlyglasspanewhitewood",
+    "particle": "abyssal_decor:block/pearlyglasswhitewood"
+  },
+  "render_type": "solid"
+}

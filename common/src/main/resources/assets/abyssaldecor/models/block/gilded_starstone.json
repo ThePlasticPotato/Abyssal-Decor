@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/starstonegildedtop",
+    "up": "abyssal_decor:block/starstonegildedtop",
+    "north": "abyssal_decor:block/starstone_gilded",
+    "east": "abyssal_decor:block/starstone_gilded",
+    "south": "abyssal_decor:block/starstone_gilded",
+    "west": "abyssal_decor:block/starstone_gilded",
+    "particle": "abyssal_decor:block/starstonegildedtop"
+  },
+  "render_type": "solid"
+}

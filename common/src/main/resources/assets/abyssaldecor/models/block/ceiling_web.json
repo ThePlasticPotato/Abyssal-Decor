@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "abyssal_decor:block/smallhangingweb",
+    "particle": "abyssal_decor:block/smallhangingweb"
+  },
+  "render_type": "cutout_mipped"
+}

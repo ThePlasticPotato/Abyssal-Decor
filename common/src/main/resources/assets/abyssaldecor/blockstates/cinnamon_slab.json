@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssal_decor:block/cinnamon_slab"
+    },
+    "type=top": {
+      "model": "abyssal_decor:block/cinnamon_slab_top"
+    },
+    "type=double": {
+      "model": "abyssal_decor:block/cinnamon_slab_full"
+    }
+  }
+}

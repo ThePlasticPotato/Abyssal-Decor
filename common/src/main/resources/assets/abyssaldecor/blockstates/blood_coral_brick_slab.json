@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssal_decor:block/blood_coral_brick_slab"
+    },
+    "type=top": {
+      "model": "abyssal_decor:block/blood_coral_brick_slab_top"
+    },
+    "type=double": {
+      "model": "abyssal_decor:block/blood_coral_brick_slab_full"
+    }
+  }
+}

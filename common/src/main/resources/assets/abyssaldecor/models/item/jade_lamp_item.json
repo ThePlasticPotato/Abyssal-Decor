@@ -1,0 +1,7 @@
+{
+  "parent": "abyssal_decor:custom/jadelamp",
+  "textures": {
+    "0": "abyssal_decor:block/jadelamp",
+    "particle": "abyssal_decor:item/greenseaglassitem"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "abyssal_decor:block/mold_fronds"
+    },
+    "half=lower": {
+      "model": "abyssal_decor:block/mold_fronds_bottom"
+    }
+  }
+}

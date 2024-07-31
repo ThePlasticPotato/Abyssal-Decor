@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/clampearlopen",
+  "textures": {
+    "all": "abyssal_decor:block/clam1",
+    "particle": "abyssal_decor:block/clam1",
+    "0": "abyssal_decor:block/clam1",
+    "1": "abyssal_decor:block/clam2"
+  },
+  "render_type": "cutout_mipped"
+}

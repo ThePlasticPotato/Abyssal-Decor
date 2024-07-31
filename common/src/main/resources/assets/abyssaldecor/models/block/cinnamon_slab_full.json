@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "abyssal_decor:block/cinnamonplanks",
+    "top": "abyssal_decor:block/cinnamonplanks",
+    "side": "abyssal_decor:block/cinnamonplanks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/ancient_birch_log_bottom",
+    "up": "abyssal_decor:block/ancient_birch_log_bottom",
+    "north": "abyssal_decor:block/ancient_birch_log",
+    "east": "abyssal_decor:block/ancient_birch_log",
+    "south": "abyssal_decor:block/ancient_birch_log",
+    "west": "abyssal_decor:block/ancient_birch_log",
+    "particle": "abyssal_decor:block/ancient_birch_log_bottom"
+  },
+  "render_type": "solid"
+}

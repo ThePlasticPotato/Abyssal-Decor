@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/wallpaper_purple"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/wallpaper_purple",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/wallpaper_purple",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/wallpaper_purple",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssal_decor:block/wallpaper_purple",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssal_decor:block/wallpaper_purple",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "abyssal_decor:blocks/dullironbardoorbottom",
+    "top": "abyssal_decor:blocks/dullironbardoortop"
+  }
+}

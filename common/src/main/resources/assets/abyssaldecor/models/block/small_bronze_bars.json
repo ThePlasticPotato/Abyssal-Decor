@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/bronzesmallbars",
+  "textures": {
+    "all": "abyssal_decor:block/smallbronzebars",
+    "particle": "abyssal_decor:block/smallbronzebars",
+    "2": "abyssal_decor:block/smallbronzebars"
+  },
+  "render_type": "cutout_mipped"
+}

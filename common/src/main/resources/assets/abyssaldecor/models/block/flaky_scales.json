@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/flakyscales",
+  "textures": {
+    "all": "abyssal_decor:block/flakyscales",
+    "particle": "abyssal_decor:block/flakyscales",
+    "0": "abyssal_decor:block/flakyscales"
+  },
+  "render_type": "cutout_mipped"
+}

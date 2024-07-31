@@ -1,0 +1,7 @@
+{
+  "parent": "abyssal_decor:custom/ironball1",
+  "textures": {
+    "0": "abyssal_decor:block/ironball",
+    "particle": "abyssal_decor:item/ironball"
+  }
+}

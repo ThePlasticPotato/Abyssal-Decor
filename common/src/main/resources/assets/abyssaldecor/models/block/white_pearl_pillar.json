@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/pearlpillartop",
+    "up": "abyssal_decor:block/pearlpillartop",
+    "north": "abyssal_decor:block/pearlpillarside",
+    "east": "abyssal_decor:block/pearlpillarside",
+    "south": "abyssal_decor:block/pearlpillarsideflipped",
+    "west": "abyssal_decor:block/pearlpillarsideflipped",
+    "particle": "abyssal_decor:block/pearlpillartop"
+  },
+  "render_type": "solid"
+}

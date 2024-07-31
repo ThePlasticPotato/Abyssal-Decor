@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/bogappleleaves",
+  "textures": {
+    "all": "abyssal_decor:block/bogapple1",
+    "particle": "abyssal_decor:block/bogapple1",
+    "0": "abyssal_decor:block/bogapple1"
+  },
+  "render_type": "cutout_mipped"
+}

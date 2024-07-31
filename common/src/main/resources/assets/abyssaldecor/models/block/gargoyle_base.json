@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/gargoylebase",
+  "textures": {
+    "all": "abyssal_decor:block/ammonite",
+    "particle": "abyssal_decor:block/ammonite",
+    "0": "abyssal_decor:block/gargoyle"
+  },
+  "render_type": "cutout_mipped"
+}

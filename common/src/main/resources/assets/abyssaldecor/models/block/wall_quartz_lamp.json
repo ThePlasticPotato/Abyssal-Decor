@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/wallgaslamp",
+  "textures": {
+    "all": "abyssal_decor:block/wallquartzlamp",
+    "particle": "abyssal_decor:block/wallquartzlamp",
+    "0": "abyssal_decor:block/wallquartzlamp"
+  },
+  "render_type": "translucent"
+}

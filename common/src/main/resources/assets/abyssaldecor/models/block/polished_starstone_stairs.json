@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "abyssal_decor:block/starstone_polished",
+    "top": "abyssal_decor:block/starstone_polished",
+    "side": "abyssal_decor:block/starstone_polished"
+  },
+  "render_type": "solid"
+}

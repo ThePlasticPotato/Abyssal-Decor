@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/bloodcoralpillartop",
+    "up": "abyssal_decor:block/bloodcoralpillartop",
+    "north": "abyssal_decor:block/bloodcoralpillarsideflipped",
+    "east": "abyssal_decor:block/bloodcoralpillarsideflipped",
+    "south": "abyssal_decor:block/bloodcoralpillarside",
+    "west": "abyssal_decor:block/bloodcoralpillarside",
+    "particle": "abyssal_decor:block/bloodcoralpillartop"
+  },
+  "render_type": "solid"
+}

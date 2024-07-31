@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/seabrass_sconce"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/seabrass_sconce",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/seabrass_sconce",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/seabrass_sconce",
+      "y": 270
+    }
+  }
+}

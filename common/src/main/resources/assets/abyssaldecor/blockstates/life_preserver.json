@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/life_preserver"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/life_preserver",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/life_preserver",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/life_preserver",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssal_decor:block/life_preserver",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssal_decor:block/life_preserver",
+      "x": 90
+    }
+  }
+}

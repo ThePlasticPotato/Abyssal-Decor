@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/hangingmossceiling",
+  "textures": {
+    "all": "abyssal_decor:block/hangingmossceiling",
+    "particle": "abyssal_decor:block/hangingmossceiling",
+    "0": "abyssal_decor:block/hangingmoss",
+    "1": "abyssal_decor:block/mossceiling"
+  },
+  "render_type": "cutout_mipped"
+}

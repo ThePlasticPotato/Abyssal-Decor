@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/strippedancientbirchtop",
+    "up": "abyssal_decor:block/strippedancientbirchtop",
+    "north": "abyssal_decor:block/strippedancientbirchside",
+    "east": "abyssal_decor:block/strippedancientbirchside",
+    "south": "abyssal_decor:block/strippedancientbirchside",
+    "west": "abyssal_decor:block/strippedancientbirchside",
+    "particle": "abyssal_decor:block/strippedancientbirchtop"
+  },
+  "render_type": "solid"
+}

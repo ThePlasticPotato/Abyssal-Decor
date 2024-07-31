@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/wallpaperbrownb",
+    "up": "abyssal_decor:block/wallpaperbrown",
+    "north": "abyssal_decor:block/wallpaperbrown",
+    "east": "abyssal_decor:block/wallpaperbrownr",
+    "south": "abyssal_decor:block/wallpaperbrown",
+    "west": "abyssal_decor:block/wallpaperbrownl",
+    "particle": "abyssal_decor:block/wallpaperbrownb"
+  },
+  "render_type": "solid"
+}

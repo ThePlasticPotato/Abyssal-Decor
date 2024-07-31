@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "abyssal_decor:block/laventinepanemid",
+    "top": "abyssal_decor:block/laventinepanemid",
+    "side": "abyssal_decor:block/laventinepanetop",
+    "overlay": "abyssal_decor:block/laventinepanetop",
+    "particle": "abyssal_decor:block/laventinepanemid"
+  },
+  "render_type": "translucent"
+}

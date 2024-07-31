@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "abyssal_decor:block/pearlyglasspaneblackwood",
+    "pane": "abyssal_decor:block/pearlyglasspaneblackwood"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssal_decor:block/healing_cinnamon_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssal_decor:block/healing_cinnamon_log"
+    },
+    "axis=z": {
+      "model": "abyssal_decor:block/healing_cinnamon_log",
+      "x": 90
+    }
+  }
+}

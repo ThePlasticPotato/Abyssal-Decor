@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/foghorn"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/foghorn",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/foghorn",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/foghorn",
+      "y": 270
+    }
+  }
+}

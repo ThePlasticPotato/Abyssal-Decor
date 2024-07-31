@@ -1,0 +1,10 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+	"layer": "TRANSLUCENT",
+        "textures":[
+            "abyssal_decor:blocks/framedglowstonepane_ctm"
+        ]
+    }
+}

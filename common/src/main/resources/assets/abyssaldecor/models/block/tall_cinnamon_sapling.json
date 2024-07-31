@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "abyssal_decor:block/bigcinnamonfloweringtop",
+    "particle": "abyssal_decor:block/bigcinnamonfloweringtop"
+  },
+  "render_type": "cutout"
+}

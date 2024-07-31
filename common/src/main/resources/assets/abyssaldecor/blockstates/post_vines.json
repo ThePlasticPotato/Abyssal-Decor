@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/post_vines"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/post_vines",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/post_vines",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/post_vines",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "abyssal_decor:block/blanktexture16x16",
+    "pane": "abyssal_decor:block/bloodcoralbarsmid"
+  },
+  "render_type": "cutout_mipped"
+}

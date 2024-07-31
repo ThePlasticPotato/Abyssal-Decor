@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "abyssal_decor:block/moldyfrondblocktop",
+    "top": "abyssal_decor:block/moldyfrondblocktop",
+    "side": "abyssal_decor:block/moldyfrontblockside",
+    "overlay": "abyssal_decor:block/moldyfrontblockside",
+    "particle": "abyssal_decor:block/moldyfrondblocktop"
+  },
+  "render_type": "solid"
+}

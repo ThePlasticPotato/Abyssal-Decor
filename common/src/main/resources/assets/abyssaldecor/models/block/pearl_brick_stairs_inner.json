@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "abyssal_decor:block/pearlbricks",
+    "top": "abyssal_decor:block/pearlbricks",
+    "side": "abyssal_decor:block/pearlbricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssal_decor:block/riveted_deepbronze_slab"
+    },
+    "type=top": {
+      "model": "abyssal_decor:block/riveted_deepbronze_slab_top"
+    },
+    "type=double": {
+      "model": "abyssal_decor:block/riveted_deepbronze_slab_full"
+    }
+  }
+}

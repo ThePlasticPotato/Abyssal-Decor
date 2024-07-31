@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "abyssal_decor:block/mossycinnamonshingles",
+    "top": "abyssal_decor:block/mossycinnamonshingles",
+    "side": "abyssal_decor:block/mossycinnamonshingles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/abyssaldecorsmallblock",
+  "textures": {
+    "all": "abyssal_decor:block/smalleye",
+    "particle": "abyssal_decor:block/smalleye",
+    "1": "abyssal_decor:block/smalleye"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/upsidedownbloodcoralsconce",
+  "textures": {
+    "all": "abyssal_decor:block/bloodcoralsconce",
+    "particle": "abyssal_decor:block/bloodcoralsconce",
+    "0": "abyssal_decor:block/bloodcoralsconce"
+  },
+  "render_type": "cutout_mipped"
+}

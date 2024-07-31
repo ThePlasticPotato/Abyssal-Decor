@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/grimecarpet",
+  "textures": {
+    "all": "abyssal_decor:block/grimecarpet",
+    "particle": "abyssal_decor:block/grimecarpet",
+    "0": "abyssal_decor:block/grimecarpet"
+  },
+  "render_type": "translucent"
+}

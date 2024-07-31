@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/bronzesconce",
+  "textures": {
+    "all": "abyssal_decor:block/bronzesconce",
+    "particle": "abyssal_decor:block/bronzesconce",
+    "2": "abyssal_decor:block/bronzesconce"
+  },
+  "render_type": "cutout_mipped"
+}

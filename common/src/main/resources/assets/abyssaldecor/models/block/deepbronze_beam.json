@@ -1,0 +1,11 @@
+{
+  "parent": "abyssal_decor:custom/bronzebeam",
+  "textures": {
+    "all": "abyssal_decor:block/bronzebeam",
+    "particle": "abyssal_decor:block/bronzebeam",
+    "0": "abyssal_decor:block/bronzebeam",
+    "1": "abyssal_decor:block/bronzebeamtop",
+    "2": "abyssal_decor:block/bronzebeaminner"
+  },
+  "render_type": "solid"
+}

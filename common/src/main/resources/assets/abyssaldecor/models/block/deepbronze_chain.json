@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/bronzechain",
+  "textures": {
+    "all": "abyssal_decor:block/bronzechain",
+    "particle": "abyssal_decor:block/bronzechain",
+    "2": "abyssal_decor:block/bronzechain"
+  },
+  "render_type": "cutout_mipped"
+}

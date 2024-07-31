@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/grimeupper",
+  "textures": {
+    "all": "abyssal_decor:block/grimesmall",
+    "particle": "abyssal_decor:block/grimesmall",
+    "1": "abyssal_decor:block/grimesmall"
+  },
+  "render_type": "translucent"
+}

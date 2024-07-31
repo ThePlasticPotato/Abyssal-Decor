@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/lionstatuebottom",
+  "textures": {
+    "all": "abyssal_decor:block/ammonite",
+    "particle": "abyssal_decor:block/ammonite",
+    "2": "abyssal_decor:block/lionstatue"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/frostedceilinglamp",
+  "textures": {
+    "all": "abyssal_decor:block/frostedceilinglamp",
+    "particle": "abyssal_decor:block/frostedceilinglamp",
+    "0": "abyssal_decor:block/frostedceilinglamp",
+    "1": "abyssal_decor:block/frostedceilinglamp2"
+  },
+  "render_type": "cutout_mipped"
+}

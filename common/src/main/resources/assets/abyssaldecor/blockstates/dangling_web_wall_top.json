@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/dangling_web_wall_top"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/dangling_web_wall_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/dangling_web_wall_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/dangling_web_wall_top",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssal_decor:block/dangling_web_wall_top",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssal_decor:block/dangling_web_wall_top",
+      "x": 90
+    }
+  }
+}

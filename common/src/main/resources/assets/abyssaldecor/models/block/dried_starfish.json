@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/starfishdried1",
+  "textures": {
+    "all": "abyssal_decor:block/starfishdried1",
+    "particle": "abyssal_decor:block/starfishdried1",
+    "0": "abyssal_decor:block/starfishdried1"
+  },
+  "render_type": "cutout_mipped"
+}

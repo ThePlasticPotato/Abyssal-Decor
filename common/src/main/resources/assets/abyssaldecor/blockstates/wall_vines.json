@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/wall_vines"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/wall_vines",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/wall_vines",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/wall_vines",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssal_decor:block/wall_vines",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssal_decor:block/wall_vines",
+      "x": 90
+    }
+  }
+}

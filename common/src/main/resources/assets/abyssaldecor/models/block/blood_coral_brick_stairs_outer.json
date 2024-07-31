@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "abyssal_decor:block/bloodcoralbricks",
+    "top": "abyssal_decor:block/bloodcoralbricks",
+    "side": "abyssal_decor:block/bloodcoralbricks"
+  },
+  "render_type": "solid"
+}

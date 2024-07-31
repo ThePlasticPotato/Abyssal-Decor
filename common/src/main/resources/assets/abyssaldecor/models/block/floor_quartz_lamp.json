@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/floorgaslamp",
+  "textures": {
+    "all": "abyssal_decor:block/floorquartzlamp",
+    "particle": "abyssal_decor:block/floorquartzlamp",
+    "2": "abyssal_decor:block/floorquartzlamp"
+  },
+  "render_type": "translucent"
+}

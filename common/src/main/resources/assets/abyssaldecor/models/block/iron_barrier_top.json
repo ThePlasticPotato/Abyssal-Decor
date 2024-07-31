@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/ironbarriertop",
+  "textures": {
+    "all": "abyssal_decor:block/ironbarrier1",
+    "particle": "abyssal_decor:block/ironbarrier1",
+    "0": "abyssal_decor:block/ironbarrier1"
+  },
+  "render_type": "cutout_mipped"
+}

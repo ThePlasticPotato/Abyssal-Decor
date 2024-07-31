@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/ironlamplit",
+  "textures": {
+    "all": "abyssal_decor:block/ironlamp1",
+    "particle": "abyssal_decor:block/ironlamp1",
+    "0": "abyssal_decor:block/ironlamp1",
+    "2": "abyssal_decor:block/ironlamp2lit"
+  },
+  "render_type": "cutout_mipped"
+}

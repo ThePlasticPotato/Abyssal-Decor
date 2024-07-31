@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssal_decor:block/polished_starstone_slab"
+    },
+    "type=top": {
+      "model": "abyssal_decor:block/polished_starstone_slab_top"
+    },
+    "type=double": {
+      "model": "abyssal_decor:block/polished_starstone_slab_full"
+    }
+  }
+}

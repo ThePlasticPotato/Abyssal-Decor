@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/wisteriapurplewallbottom",
+  "textures": {
+    "all": "abyssal_decor:block/wisteriapurplebottom",
+    "particle": "abyssal_decor:block/wisteriapurplebottom",
+    "2": "abyssal_decor:block/wisteriapurplebottom"
+  },
+  "render_type": "cutout_mipped"
+}

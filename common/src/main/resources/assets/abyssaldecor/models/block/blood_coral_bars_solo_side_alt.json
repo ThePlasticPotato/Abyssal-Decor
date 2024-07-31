@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "abyssal_decor:block/bloodcoralpolished",
+    "pane": "abyssal_decor:block/bloodcoralbarssolo"
+  },
+  "render_type": "cutout_mipped"
+}

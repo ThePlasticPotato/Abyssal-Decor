@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/scrimshaw_cave"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/scrimshaw_cave",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/scrimshaw_cave",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/scrimshaw_cave",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/scrimshawcave",
+  "textures": {
+    "all": "abyssal_decor:block/scrimshawpt2",
+    "particle": "abyssal_decor:block/scrimshawpt2",
+    "0": "abyssal_decor:block/scrimshawpt1",
+    "1": "abyssal_decor:block/scrimshawpt2"
+  },
+  "render_type": "cutout_mipped"
+}

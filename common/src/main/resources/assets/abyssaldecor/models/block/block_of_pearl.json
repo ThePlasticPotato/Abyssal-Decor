@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "abyssal_decor:block/pearlblockcut",
+    "particle": "abyssal_decor:block/pearlblockcut"
+  },
+  "render_type": "solid"
+}

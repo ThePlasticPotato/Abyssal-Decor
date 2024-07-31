@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "abyssal_decor:block/cinnamonshingles",
+    "top": "abyssal_decor:block/cinnamonshingles",
+    "side": "abyssal_decor:block/cinnamonshingles"
+  },
+  "render_type": "solid"
+}

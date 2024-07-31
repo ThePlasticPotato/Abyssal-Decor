@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/ethereal_rod",
+  "textures": {
+    "all": "abyssal_decor:block/etherealrod",
+    "particle": "abyssal_decor:block/etherealrod",
+    "2": "abyssal_decor:block/etherealrod"
+  },
+  "render_type": "cutout_mipped"
+}

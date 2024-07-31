@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/tubelamplit",
+  "textures": {
+    "all": "abyssal_decor:block/tubelamp",
+    "particle": "abyssal_decor:block/tubelamp",
+    "0": "abyssal_decor:block/tubelamp"
+  },
+  "render_type": "cutout_mipped"
+}

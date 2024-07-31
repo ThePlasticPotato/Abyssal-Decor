@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/stellar_rod",
+  "textures": {
+    "all": "abyssal_decor:block/stellarrod",
+    "particle": "abyssal_decor:block/stellarrod",
+    "1": "abyssal_decor:block/stellarrod"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/jadelamp",
+  "textures": {
+    "all": "abyssal_decor:block/jadelamp",
+    "particle": "abyssal_decor:block/jadelamp",
+    "0": "abyssal_decor:block/jadelamp"
+  },
+  "render_type": "cutout_mipped"
+}

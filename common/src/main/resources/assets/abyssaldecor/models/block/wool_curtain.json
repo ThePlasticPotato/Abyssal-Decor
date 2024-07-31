@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/woolcurtainssolo",
+  "textures": {
+    "all": "abyssal_decor:block/woolcurtainssolo",
+    "particle": "abyssal_decor:block/woolcurtainssolo",
+    "3": "abyssal_decor:block/woolcurtainssolo"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "abyssal_decor:block/gildedjadetop",
+    "top": "abyssal_decor:block/gildedjadetop",
+    "side": "abyssal_decor:block/gildedjadeside",
+    "overlay": "abyssal_decor:block/gildedjadeside",
+    "particle": "abyssal_decor:block/gildedjadetop"
+  },
+  "render_type": "solid"
+}

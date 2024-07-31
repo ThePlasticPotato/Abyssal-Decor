@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "abyssal_decor:block/bloodcoralbarsmid"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "abyssal_decor:blocks/bronzedoorbottom",
+    "top": "abyssal_decor:blocks/bronzedoortop"
+  }
+}

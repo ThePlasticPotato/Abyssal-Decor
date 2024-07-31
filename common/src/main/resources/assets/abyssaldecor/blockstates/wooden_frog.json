@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/wooden_frog"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/wooden_frog",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/wooden_frog",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/wooden_frog",
+      "y": 270
+    }
+  }
+}

@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "abyssaldecor",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Abyssal Decor",
+  "description": "(Mostly) Vanilla style decorative blocks, (mostly) inspired by Victorian and Lovecraftian themes!",
   "authors": [
-    "Me!"
+    "StarrySock",
+    "ThePlasticPotato"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
-  "license": "Insert License Here",
-  "icon": "assets/examplemod/icon.png",
+  "license": "Code : GPL 3.0, Textures : ARR",
+  "icon": "assets/abyssaldecor/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -20,8 +21,8 @@
     ]
   },
   "mixins": [
-    "examplemod.mixins.json",
-    "examplemod-common.mixins.json"
+    "abyssaldecor.mixins.json",
+    "abyssaldecor-common.mixins.json"
   ],
   "depends": {
     "fabric": "*",

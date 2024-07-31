@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/woolcurtainstop",
+  "textures": {
+    "all": "abyssal_decor:block/woolcurtainstop",
+    "particle": "abyssal_decor:block/woolcurtainstop",
+    "0": "abyssal_decor:block/woolcurtainstop"
+  },
+  "render_type": "cutout_mipped"
+}

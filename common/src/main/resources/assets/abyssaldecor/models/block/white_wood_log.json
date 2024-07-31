@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/whitewoodstrippedlogtop",
+    "up": "abyssal_decor:block/whitewoodstrippedlogtop",
+    "north": "abyssal_decor:block/whitewoodstrippedlog",
+    "east": "abyssal_decor:block/whitewoodstrippedlog",
+    "south": "abyssal_decor:block/whitewoodstrippedlog",
+    "west": "abyssal_decor:block/whitewoodstrippedlog",
+    "particle": "abyssal_decor:block/whitewoodstrippedlogtop"
+  },
+  "render_type": "solid"
+}

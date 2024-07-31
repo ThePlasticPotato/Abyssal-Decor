@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/velvet_curtain_top"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/velvet_curtain_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/velvet_curtain_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/velvet_curtain_top",
+      "y": 270
+    }
+  }
+}

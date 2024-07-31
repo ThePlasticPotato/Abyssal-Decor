@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "abyssal_decor:block/whitewoodplanks",
+    "top": "abyssal_decor:block/whitewoodplanks",
+    "side": "abyssal_decor:block/whitewoodplanks"
+  },
+  "render_type": "solid"
+}

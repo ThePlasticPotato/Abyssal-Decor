@@ -1,0 +1,8 @@
+{
+  "parent": "abyssal_decor:custom/ironlamp",
+  "textures": {
+    "0": "abyssal_decor:block/ironlamp1",
+    "1": "abyssal_decor:block/ironlamp2",
+    "particle": "abyssal_decor:item/moldyhangermid"
+  }
+}

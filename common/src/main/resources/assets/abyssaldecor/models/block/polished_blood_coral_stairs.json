@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "abyssal_decor:block/bloodcoralpolished",
+    "top": "abyssal_decor:block/bloodcoralpolished",
+    "side": "abyssal_decor:block/bloodcoralpolished"
+  },
+  "render_type": "solid"
+}

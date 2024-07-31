@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "abyssal_decor:block/pearlyglasspaneblackwood"
+  },
+  "render_type": "solid"
+}

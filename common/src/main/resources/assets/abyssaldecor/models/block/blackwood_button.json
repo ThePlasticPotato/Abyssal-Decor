@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "abyssal_decor:block/blackwoodplanks"
+  },
+  "render_type": "solid"
+}

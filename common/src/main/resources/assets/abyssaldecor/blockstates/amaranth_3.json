@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "abyssal_decor:block/amaranth_3"
+    },
+    "half=lower": {
+      "model": "abyssal_decor:block/amaranth_3_bottom"
+    }
+  }
+}

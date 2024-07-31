@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/bonedust2",
+  "textures": {
+    "all": "abyssal_decor:block/bonedust1",
+    "particle": "abyssal_decor:block/bonedust1",
+    "4": "abyssal_decor:block/bonedust1",
+    "5": "abyssal_decor:block/bonedust2"
+  },
+  "render_type": "cutout_mipped"
+}

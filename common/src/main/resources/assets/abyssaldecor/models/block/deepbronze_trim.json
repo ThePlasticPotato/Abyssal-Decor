@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "abyssal_decor:block/bronzetrim",
+    "particle": "abyssal_decor:block/bronzetrim"
+  },
+  "render_type": "solid"
+}

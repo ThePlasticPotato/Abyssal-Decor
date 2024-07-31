@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/flowerlamplit",
+  "textures": {
+    "all": "abyssal_decor:block/flowerlamplit",
+    "particle": "abyssal_decor:block/flowerlamplit",
+    "1": "abyssal_decor:block/flowerlamplit"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "abyssal_decor:block/pearlyglassazure",
+    "top": "abyssal_decor:block/pearlyglassazure",
+    "side": "abyssal_decor:block/pearlyglasspaneazure",
+    "overlay": "abyssal_decor:block/pearlyglasspaneazure",
+    "particle": "abyssal_decor:block/pearlyglassazure"
+  },
+  "render_type": "solid"
+}

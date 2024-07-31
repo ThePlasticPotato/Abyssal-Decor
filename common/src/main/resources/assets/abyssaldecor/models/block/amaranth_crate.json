@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "abyssal_decor:block/amaranthcratebottom",
+    "top": "abyssal_decor:block/amaranthcratetop",
+    "side": "abyssal_decor:block/amaranthcrate",
+    "overlay": "abyssal_decor:block/amaranthcrate",
+    "particle": "abyssal_decor:block/amaranthcratebottom"
+  },
+  "render_type": "solid"
+}

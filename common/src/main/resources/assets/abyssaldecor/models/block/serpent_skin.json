@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/serpentskinbottom",
+    "up": "abyssal_decor:block/serpentscales",
+    "north": "abyssal_decor:block/serpentskinside",
+    "east": "abyssal_decor:block/serpentskinside",
+    "south": "abyssal_decor:block/serpentskinside",
+    "west": "abyssal_decor:block/serpentskinside",
+    "particle": "abyssal_decor:block/serpentskinbottom"
+  },
+  "render_type": "solid"
+}

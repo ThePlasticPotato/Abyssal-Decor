@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "abyssal_decor:block/bloodcoralbrickslab",
+    "top": "abyssal_decor:block/bloodcoralbrickslab",
+    "side": "abyssal_decor:block/bloodcoralbrickslab"
+  },
+  "render_type": "solid"
+}

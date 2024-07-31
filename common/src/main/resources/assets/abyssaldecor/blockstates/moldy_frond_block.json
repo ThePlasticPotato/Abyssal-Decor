@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssal_decor:block/moldy_frond_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssal_decor:block/moldy_frond_block"
+    },
+    "axis=z": {
+      "model": "abyssal_decor:block/moldy_frond_block",
+      "x": 90
+    }
+  }
+}

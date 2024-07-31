@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/seabrasscatalyst",
+  "textures": {
+    "all": "abyssal_decor:block/seabrasscatalyst1",
+    "particle": "abyssal_decor:block/seabrasscatalyst1",
+    "0": "abyssal_decor:block/seabrasscatalyst1"
+  },
+  "render_type": "translucent"
+}

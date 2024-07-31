@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/hangingweb",
+  "textures": {
+    "all": "abyssal_decor:block/smallhangingweb",
+    "particle": "abyssal_decor:block/smallhangingweb",
+    "0": "abyssal_decor:block/smallhangingweb"
+  },
+  "render_type": "cutout_mipped"
+}

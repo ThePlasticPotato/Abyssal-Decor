@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "abyssal_decor:block/jadelanternon",
+    "particle": "abyssal_decor:block/jadelanternon"
+  },
+  "render_type": "solid"
+}

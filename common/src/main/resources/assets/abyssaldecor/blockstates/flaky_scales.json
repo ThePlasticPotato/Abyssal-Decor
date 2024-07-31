@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/flaky_scales"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/flaky_scales",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/flaky_scales",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/flaky_scales",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssal_decor:block/flaky_scales",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssal_decor:block/flaky_scales",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/hanging_moss_wall_flipped"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/hanging_moss_wall_flipped",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/hanging_moss_wall_flipped",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/hanging_moss_wall_flipped",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/orchid",
+  "textures": {
+    "all": "abyssal_decor:block/orchid2",
+    "particle": "abyssal_decor:block/orchid2",
+    "0": "abyssal_decor:block/orchid1",
+    "1": "abyssal_decor:block/orchid2"
+  },
+  "render_type": "cutout_mipped"
+}

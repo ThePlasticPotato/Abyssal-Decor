@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "abyssal_decor:block/pearlyglasspaneblackwood"
+  },
+  "render_type": "solid"
+}

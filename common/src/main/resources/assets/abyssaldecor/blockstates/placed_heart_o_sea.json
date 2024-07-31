@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/placed_heart_o_sea"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/placed_heart_o_sea",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/placed_heart_o_sea",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/placed_heart_o_sea",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssal_decor:block/placed_heart_o_sea",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssal_decor:block/placed_heart_o_sea",
+      "x": 90
+    }
+  }
+}

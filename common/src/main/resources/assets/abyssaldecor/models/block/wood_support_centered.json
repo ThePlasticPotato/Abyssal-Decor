@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/woodsupportcentered",
+  "textures": {
+    "all": "abyssal_decor:block/woodsupport",
+    "particle": "abyssal_decor:block/woodsupport",
+    "0": "abyssal_decor:block/woodsupport"
+  },
+  "render_type": "cutout_mipped"
+}

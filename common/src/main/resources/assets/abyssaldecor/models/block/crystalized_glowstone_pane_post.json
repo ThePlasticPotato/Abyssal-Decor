@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "edge": "abyssal_decor:block/glowstonepane",
+    "pane": "abyssal_decor:block/glowstonepane"
+  },
+  "render_type": "translucent"
+}

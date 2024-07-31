@@ -1,33 +1,33 @@
 modLoader = "javafml"
 loaderVersion = "[47,)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "Code : GPL 3.0, Assets : ARR"
 
 [[mods]]
-modId = "examplemod"
+modId = "abyssaldecor"
 version = "${version}"
-displayName = "Example Mod"
-authors = "Me!"
+displayName = "Abyssal Decor"
+authors = "StarrySock, ThePlasticPotato"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+(Mostly) Vanilla style decorative blocks, (mostly) inspired by Victorian and Lovecraftian themes!
 '''
 #logoFile = ""
 
-[[dependencies.examplemod]]
+[[dependencies.abyssaldecor]]
 modId = "forge"
 mandatory = true
 versionRange = "[47,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.abyssaldecor]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.20.1,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.abyssaldecor]]
 modId = "architectury"
 mandatory = true
 versionRange = "[9.1.12,)"

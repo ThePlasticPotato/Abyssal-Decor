@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/carvedwoodhead",
+  "textures": {
+    "all": "abyssal_decor:block/woodendragonhead",
+    "particle": "abyssal_decor:block/woodendragonhead",
+    "1": "abyssal_decor:block/woodendragonhead"
+  },
+  "render_type": "solid"
+}

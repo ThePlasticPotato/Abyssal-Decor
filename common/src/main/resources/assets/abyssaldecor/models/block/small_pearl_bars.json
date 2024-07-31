@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/smallpearlbars",
+  "textures": {
+    "all": "abyssal_decor:block/smallpearlbars",
+    "particle": "abyssal_decor:block/smallpearlbars",
+    "2": "abyssal_decor:block/smallpearlbars"
+  },
+  "render_type": "cutout_mipped"
+}

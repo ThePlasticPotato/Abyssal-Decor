@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/cinnamontrimtop",
+    "up": "abyssal_decor:block/cinnamontrimtop",
+    "north": "abyssal_decor:block/cinnamontrimside",
+    "east": "abyssal_decor:block/cinnamontrimside",
+    "south": "abyssal_decor:block/cinnamontrimside",
+    "west": "abyssal_decor:block/cinnamontrimside",
+    "particle": "abyssal_decor:block/cinnamontrimtop"
+  },
+  "render_type": "solid"
+}

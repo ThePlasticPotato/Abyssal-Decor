@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/grimemid",
+  "textures": {
+    "all": "abyssal_decor:block/grimemid",
+    "particle": "abyssal_decor:block/grimemid",
+    "0": "abyssal_decor:block/grimemid"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "abyssal_decor:block/moldystalkbottom",
+    "particle": "abyssal_decor:block/moldystalkbottom"
+  },
+  "render_type": "cutout_mipped"
+}

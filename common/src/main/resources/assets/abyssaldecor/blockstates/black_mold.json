@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/black_mold"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/black_mold",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/black_mold",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/black_mold",
+      "y": 270
+    }
+  }
+}

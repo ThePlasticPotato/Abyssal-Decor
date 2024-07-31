@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "abyssal_decor:block/pearlblocksmooth",
+    "particle": "abyssal_decor:block/pearlblocksmooth"
+  },
+  "render_type": "solid"
+}

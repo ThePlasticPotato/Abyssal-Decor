@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "abyssal_decor:block/tall_cinnamon_bush"
+    },
+    "half=lower": {
+      "model": "abyssal_decor:block/tall_cinnamon_bush_bottom"
+    }
+  }
+}

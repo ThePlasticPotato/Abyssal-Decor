@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/clam_pearl_closed"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/clam_pearl_closed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/clam_pearl_closed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/clam_pearl_closed",
+      "y": 270
+    }
+  }
+}

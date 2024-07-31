@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssal_decor:block/effervescent_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssal_decor:block/effervescent_pillar"
+    },
+    "axis=z": {
+      "model": "abyssal_decor:block/effervescent_pillar",
+      "x": 90
+    }
+  }
+}

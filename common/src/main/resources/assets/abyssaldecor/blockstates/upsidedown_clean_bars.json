@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/upsidedown_clean_bars"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/upsidedown_clean_bars",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/upsidedown_clean_bars",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/upsidedown_clean_bars",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "abyssal_decor:custom/life_preserver",
+  "textures": {
+    "all": "abyssal_decor:block/lifepreserver1",
+    "particle": "abyssal_decor:block/lifepreserver1",
+    "0": "abyssal_decor:block/lifepreserver1",
+    "1": "abyssal_decor:block/lifepreserver2"
+  },
+  "render_type": "cutout_mipped"
+}

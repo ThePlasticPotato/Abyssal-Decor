@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/walljadelamplit",
+  "textures": {
+    "all": "abyssal_decor:block/walljadelamplit",
+    "particle": "abyssal_decor:block/walljadelamplit",
+    "2": "abyssal_decor:block/walljadelamplit"
+  },
+  "render_type": "cutout_mipped"
+}

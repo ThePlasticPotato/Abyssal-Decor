@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/dullironpostmid",
+  "textures": {
+    "all": "abyssal_decor:block/dullironpost1",
+    "particle": "abyssal_decor:block/dullironpost1",
+    "0": "abyssal_decor:block/dullironpost1"
+  },
+  "render_type": "solid"
+}

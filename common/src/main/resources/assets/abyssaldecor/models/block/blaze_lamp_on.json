@@ -1,0 +1,9 @@
+{
+  "parent": "abyssal_decor:custom/blazelamp",
+  "textures": {
+    "all": "abyssal_decor:block/blazelamp",
+    "particle": "abyssal_decor:block/blazelamp",
+    "0": "abyssal_decor:block/blazelamp"
+  },
+  "render_type": "cutout_mipped"
+}

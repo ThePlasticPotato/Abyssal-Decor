@@ -1,0 +1,11 @@
+{
+  "parent": "abyssal_decor:custom/postvines",
+  "textures": {
+    "all": "abyssal_decor:block/cinnamonleaves",
+    "particle": "abyssal_decor:block/cinnamonleaves",
+    "0": "abyssal_decor:block/postvines1",
+    "1": "abyssal_decor:block/postvines2",
+    "2": "abyssal_decor:block/postvines3"
+  },
+  "render_type": "cutout_mipped"
+}

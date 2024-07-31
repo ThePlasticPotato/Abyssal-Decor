@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/brasspipelargetop",
+    "up": "abyssal_decor:block/brasspipelargetop",
+    "north": "abyssal_decor:block/brasspipelarge",
+    "east": "abyssal_decor:block/brasspipelarge",
+    "south": "abyssal_decor:block/brasspipelarge",
+    "west": "abyssal_decor:block/brasspipelarge",
+    "particle": "abyssal_decor:block/brasspipelargetop"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "abyssal_decor:block/tall_cinnamon_sapling"
+    },
+    "half=lower": {
+      "model": "abyssal_decor:block/tall_cinnamon_sapling_bottom"
+    }
+  }
+}

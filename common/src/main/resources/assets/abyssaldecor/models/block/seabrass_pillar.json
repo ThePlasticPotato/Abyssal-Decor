@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "abyssal_decor:block/brasspillartop",
+    "up": "abyssal_decor:block/seabrasspillartopflipped",
+    "north": "abyssal_decor:block/brasspillar",
+    "east": "abyssal_decor:block/brasspillar",
+    "south": "abyssal_decor:block/brasspillar",
+    "west": "abyssal_decor:block/brasspillar",
+    "particle": "abyssal_decor:block/brasspillartop"
+  },
+  "render_type": "solid"
+}

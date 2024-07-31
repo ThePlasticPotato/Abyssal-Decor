@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssal_decor:block/wisteria_elder_mid"
+    },
+    "facing=east": {
+      "model": "abyssal_decor:block/wisteria_elder_mid",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssal_decor:block/wisteria_elder_mid",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssal_decor:block/wisteria_elder_mid",
+      "y": 270
+    }
+  }
+}
