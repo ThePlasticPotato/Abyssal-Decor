@@ -26,7 +26,8 @@ public enum PaletteType {
                 variants.add("_riveted");
                 variants.add("_pillar");
                 variants.add("_large_pipe");
-                variants.add("_small_pipe");
+                variants.add("_pipe");
+                variants.add("_small_pipes");
                 variants.add("_tiles");
                 variants.add("_plating");
                 variants.add("_slab");
