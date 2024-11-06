@@ -56,6 +56,6 @@ public class AbyssalDecor {
         TABS.register();
         BLOCKS.register();
         ITEMS.register();
-        System.out.println(ExampleExpectPlatform.getConfigDirectory().toAbsolutePath().normalize().toString());
+        System.out.println(AbyssalDecorExpectPlatform.getConfigDirectory().toAbsolutePath().normalize().toString());
     }
 }

@@ -2,9 +2,11 @@ package net.starrysock.abyssaldecor.content;
 
 import net.minecraft.core.Direction;
 import net.minecraft.world.item.context.BlockPlaceContext;
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.RenderShape;
 import net.minecraft.world.level.block.SimpleWaterloggedBlock;
 import net.minecraft.world.level.block.state.BlockState;
+import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 import net.minecraft.world.level.block.state.properties.DirectionProperty;
 import net.minecraft.world.level.material.Fluids;
@@ -17,6 +19,15 @@ public class WallMountedInteractibleLampBlock extends InteractibleRedstoneLampBl
     public WallMountedInteractibleLampBlock(Properties properties) {
         super(properties);
         this.registerDefaultState((BlockState) this.defaultBlockState().setValue(HORIZONTAL_FACING, Direction.NORTH).setValue(LIT, false).setValue(FORCED, false).setValue(BlockStateProperties.WATERLOGGED, false));
+    }
+
+    @Override
+    protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> builder) {
+        super.createBlockStateDefinition(builder);
+        builder.add(HORIZONTAL_FACING);
+        builder.add(LIT);
+        builder.add(FORCED);
+        builder.add(BlockStateProperties.WATERLOGGED);
     }
 
     @Nullable

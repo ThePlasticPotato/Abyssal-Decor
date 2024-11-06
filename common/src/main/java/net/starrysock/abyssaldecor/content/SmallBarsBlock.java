@@ -9,9 +9,11 @@ import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.context.BlockPlaceContext;
 import net.minecraft.world.level.Level;
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.HorizontalDirectionalBlock;
 import net.minecraft.world.level.block.SimpleWaterloggedBlock;
 import net.minecraft.world.level.block.state.BlockState;
+import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 import net.minecraft.world.level.block.state.properties.DirectionProperty;
 import net.minecraft.world.level.material.Fluids;
@@ -24,7 +26,15 @@ public class SmallBarsBlock extends HorizontalDirectionalBlock implements Simple
 
     public SmallBarsBlock(Properties properties) {
         super(properties);
-        this.registerDefaultState((BlockState) this.defaultBlockState().setValue(FACING, Direction.NORTH).setValue(VERTICAL_FACING, Direction.UP));
+        this.registerDefaultState((BlockState) this.defaultBlockState().setValue(FACING, Direction.NORTH).setValue(VERTICAL_FACING, Direction.UP).setValue(BlockStateProperties.WATERLOGGED, false));
+    }
+
+    @Override
+    protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> builder) {
+        super.createBlockStateDefinition(builder);
+        builder.add(FACING);
+        builder.add(VERTICAL_FACING);
+        builder.add(BlockStateProperties.WATERLOGGED);
     }
 
     @Nullable

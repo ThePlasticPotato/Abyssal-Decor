@@ -10,7 +10,7 @@ import java.util.Set;
 import java.util.stream.Stream;
 
 public record AbyssalBlockSetType(String name, boolean canOpenByHand, SoundType soundType, SoundEvent doorClose, SoundEvent doorOpen, SoundEvent trapdoorClose, SoundEvent trapdoorOpen, SoundEvent pressurePlateClickOff, SoundEvent pressurePlateClickOn, SoundEvent buttonClickOff, SoundEvent buttonClickOn) {
-    private static final Set<AbyssalBlockSetType> VALUES = new ObjectArraySet();
+    private static final Set<AbyssalBlockSetType> VALUES = new ObjectArraySet<>();
     public static final AbyssalBlockSetType SEABRASS;
     public static final AbyssalBlockSetType DEEPBRONZE;
     public static final AbyssalBlockSetType PEARL;

@@ -10,8 +10,10 @@ import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.context.BlockPlaceContext;
 import net.minecraft.world.level.Level;
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.RedstoneLampBlock;
 import net.minecraft.world.level.block.state.BlockState;
+import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.level.block.state.properties.BooleanProperty;
 import net.minecraft.world.phys.BlockHitResult;
 import net.starrysock.abyssaldecor.registry.AbyssalBlockSetType;
@@ -22,6 +24,7 @@ public class InteractibleRedstoneLampBlock extends RedstoneLampBlock {
 
     public InteractibleRedstoneLampBlock(Properties properties) {
         super(properties);
+        this.registerDefaultState((BlockState) this.defaultBlockState().setValue(LIT, false).setValue(FORCED, false));
     }
 
     @Override
@@ -32,6 +35,13 @@ public class InteractibleRedstoneLampBlock extends RedstoneLampBlock {
             return InteractionResult.SUCCESS;
         }
         return super.use(blockState, level, blockPos, player, interactionHand, blockHitResult);
+    }
+
+    @Override
+    protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> builder) {
+        super.createBlockStateDefinition(builder);
+        builder.add(LIT);
+        builder.add(FORCED);
     }
 
     @Nullable
