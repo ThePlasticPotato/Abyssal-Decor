@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/clam_empty_open",
+  "parent": "abyssaldecor:block/clam_empty_open",
   "display": {
     "thirdperson": {
       "rotation": [

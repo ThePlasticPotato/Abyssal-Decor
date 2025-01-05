@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/upsidedown_brass_bars_corner",
+  "parent": "abyssaldecor:block/upsidedown_brass_bars_corner",
   "display": {
     "thirdperson": {
       "rotation": [

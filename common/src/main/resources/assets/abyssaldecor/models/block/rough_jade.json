@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/jaderaw",
-    "particle": "abyssal_decor:block/jaderaw"
+    "all": "abyssaldecor:block/jaderaw",
+    "particle": "abyssaldecor:block/jaderaw"
   },
   "render_type": "solid"
 }

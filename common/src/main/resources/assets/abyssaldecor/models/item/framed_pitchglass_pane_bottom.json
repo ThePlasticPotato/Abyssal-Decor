@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:block/pitchglasspanemid"
+    "layer0": "abyssaldecor:block/pitchglasspanemid"
   },
   "render_type": "translucent"
 }

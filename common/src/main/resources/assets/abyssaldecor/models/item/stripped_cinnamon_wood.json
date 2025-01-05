@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/stripped_cinnamon_wood",
+  "parent": "abyssaldecor:block/stripped_cinnamon_wood",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/shipwheel",
+  "parent": "abyssaldecor:custom/shipwheel",
   "textures": {
-    "all": "abyssal_decor:block/shipwheel",
-    "particle": "abyssal_decor:block/shipwheel",
-    "0": "abyssal_decor:block/shipwheel"
+    "all": "abyssaldecor:block/shipwheel",
+    "particle": "abyssaldecor:block/shipwheel",
+    "0": "abyssaldecor:block/shipwheel"
   },
   "render_type": "cutout_mipped"
 }

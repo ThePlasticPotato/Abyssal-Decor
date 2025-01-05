@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/wall_bulb_lamp",
+  "parent": "abyssaldecor:block/wall_bulb_lamp",
   "display": {
     "thirdperson": {
       "rotation": [

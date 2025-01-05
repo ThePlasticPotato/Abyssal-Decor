@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssaldecor:block/gargoyle"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/gargoyle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/gargoyle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/gargoyle",
+      "y": 270
+    }
+  }
+}

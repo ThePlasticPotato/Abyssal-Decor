@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/velvet_barrier_ribbon",
+  "parent": "abyssaldecor:block/velvet_barrier_ribbon",
   "display": {
     "thirdperson": {
       "rotation": [

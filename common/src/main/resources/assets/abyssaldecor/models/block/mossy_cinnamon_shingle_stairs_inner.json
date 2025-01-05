@@ -1,9 +1,9 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
-    "bottom": "abyssal_decor:block/mossycinnamonshingles",
-    "top": "abyssal_decor:block/mossycinnamonshingles",
-    "side": "abyssal_decor:block/mossycinnamonshingles"
+    "bottom": "abyssaldecor:block/mossycinnamonshingles",
+    "top": "abyssaldecor:block/mossycinnamonshingles",
+    "side": "abyssaldecor:block/mossycinnamonshingles"
   },
   "render_type": "solid"
 }

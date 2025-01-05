@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssaldecor:block/jade_lamp_off"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/jade_lamp_off",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/jade_lamp_off",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/jade_lamp_off",
+      "y": 270
+    }
+  }
+}

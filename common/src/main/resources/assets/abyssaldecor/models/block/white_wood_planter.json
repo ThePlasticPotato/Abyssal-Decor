@@ -1,11 +1,11 @@
 {
   "parent": "block/grass_block",
   "textures": {
-    "bottom": "abyssal_decor:block/whitewoodplanterbottom",
-    "top": "abyssal_decor:block/whitewoodplantertop",
-    "side": "abyssal_decor:block/whitewoodplanterside",
-    "overlay": "abyssal_decor:block/whitewoodplanterside",
-    "particle": "abyssal_decor:block/whitewoodplanterbottom"
+    "bottom": "abyssaldecor:block/whitewoodplanterbottom",
+    "top": "abyssaldecor:block/whitewoodplantertop",
+    "side": "abyssaldecor:block/whitewoodplanterside",
+    "overlay": "abyssaldecor:block/whitewoodplanterside",
+    "particle": "abyssaldecor:block/whitewoodplanterbottom"
   },
   "render_type": "solid"
 }

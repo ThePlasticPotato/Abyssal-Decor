@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/hanging_moss_wall_flipped",
+  "parent": "abyssaldecor:block/hanging_moss_wall_flipped",
   "display": {
     "thirdperson": {
       "rotation": [

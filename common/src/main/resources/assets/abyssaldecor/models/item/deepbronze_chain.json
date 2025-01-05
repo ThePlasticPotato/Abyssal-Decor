@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/bronzechainicon"
+    "layer0": "abyssaldecor:item/bronzechainicon"
   },
   "render_type": "translucent"
 }

@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/fusebox",
+  "parent": "abyssaldecor:custom/fusebox",
   "textures": {
-    "all": "abyssal_decor:block/ironpanel",
-    "particle": "abyssal_decor:block/ironpanel",
-    "0": "abyssal_decor:block/fusebox"
+    "all": "abyssaldecor:block/ironpanel",
+    "particle": "abyssaldecor:block/ironpanel",
+    "0": "abyssaldecor:block/fusebox"
   },
   "render_type": "cutout_mipped"
 }

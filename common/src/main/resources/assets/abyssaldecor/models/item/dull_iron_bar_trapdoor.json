@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/dull_iron_bar_trapdoor",
+  "parent": "abyssaldecor:block/dull_iron_bar_trapdoor",
   "display": {
     "thirdperson": {
       "rotation": [

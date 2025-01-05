@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "abyssaldecor:block/bulb_lamp_floor"
+    },
+    "lit=true": {
+      "model": "abyssaldecor:block/bulb_lamp_floor_lit"
+    },
+    "facing=north": {
+      "model": "abyssaldecor:block/bulb_lamp_floor"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/bulb_lamp_floor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/bulb_lamp_floor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/bulb_lamp_floor",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssaldecor:block/bulb_lamp_floor",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssaldecor:block/bulb_lamp_floor",
+      "x": 90
+    }
+  }
+}

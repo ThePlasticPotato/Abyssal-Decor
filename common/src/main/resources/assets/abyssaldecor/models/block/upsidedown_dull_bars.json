@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/upsidedowndullsmallbars",
+  "parent": "abyssaldecor:custom/upsidedowndullsmallbars",
   "textures": {
-    "all": "abyssal_decor:block/smallbarsdull",
-    "particle": "abyssal_decor:block/smallbarsdull",
-    "0": "abyssal_decor:block/smallbarsdull"
+    "all": "abyssaldecor:block/smallbarsdull",
+    "particle": "abyssaldecor:block/smallbarsdull",
+    "0": "abyssaldecor:block/smallbarsdull"
   },
   "render_type": "cutout_mipped"
 }

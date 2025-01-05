@@ -1,10 +1,10 @@
 {
-  "parent": "abyssal_decor:custom/grimefloor",
+  "parent": "abyssaldecor:custom/grimefloor",
   "textures": {
-    "all": "abyssal_decor:block/grimesmall",
-    "particle": "abyssal_decor:block/grimesmall",
-    "1": "abyssal_decor:block/grimesmall",
-    "2": "abyssal_decor:block/grimesmaller"
+    "all": "abyssaldecor:block/grimesmall",
+    "particle": "abyssaldecor:block/grimesmall",
+    "1": "abyssaldecor:block/grimesmall",
+    "2": "abyssaldecor:block/grimesmaller"
   },
   "render_type": "translucent"
 }

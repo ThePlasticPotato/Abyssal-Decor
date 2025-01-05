@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/shortgillsitem"
+    "layer0": "abyssaldecor:item/shortgillsitem"
   },
   "render_type": "translucent"
 }

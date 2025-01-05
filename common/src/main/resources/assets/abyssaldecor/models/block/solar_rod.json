@@ -1,9 +1,8 @@
 {
-  "parent": "abyssal_decor:custom/solar_rod",
+  "parent": "abyssaldecor:custom/solar_rod",
   "textures": {
-    "all": "abyssal_decor:block/solarrod",
-    "particle": "abyssal_decor:block/solarrod",
-    "1": "abyssal_decor:block/solarrod"
-  },
-  "render_type": "cutout_mipped"
+    "all": "abyssaldecor:block/solarrod",
+    "particle": "abyssaldecor:block/solarrod",
+    "1": "abyssaldecor:block/solarrod"
+  }
 }

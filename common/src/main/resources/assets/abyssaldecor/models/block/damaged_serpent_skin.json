@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/serpentskinbottom",
-    "up": "abyssal_decor:block/serpentscalesdamaged",
-    "north": "abyssal_decor:block/serpentskinside",
-    "east": "abyssal_decor:block/serpentskinside",
-    "south": "abyssal_decor:block/serpentskinside",
-    "west": "abyssal_decor:block/serpentskinside",
-    "particle": "abyssal_decor:block/serpentskinbottom"
+    "down": "abyssaldecor:block/serpentskinbottom",
+    "up": "abyssaldecor:block/serpentscalesdamaged",
+    "north": "abyssaldecor:block/serpentskinside",
+    "east": "abyssaldecor:block/serpentskinside",
+    "south": "abyssaldecor:block/serpentskinside",
+    "west": "abyssaldecor:block/serpentskinside",
+    "particle": "abyssaldecor:block/serpentskinbottom"
   },
   "render_type": "solid"
 }

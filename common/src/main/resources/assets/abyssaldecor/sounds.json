@@ -1,0 +1,11 @@
+{
+  "music.disk.tsm": {
+    "subtitle": "subtitles.music.disk.tsm",
+    "sounds": [
+      {
+        "name": "abyssaldecor:unknown_artist_-_the_most_mysterious_song_on_the_internet_minus",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/smooth_blood_coral_slab",
+  "parent": "abyssaldecor:block/smooth_blood_coral_slab",
   "display": {
     "thirdperson": {
       "rotation": [

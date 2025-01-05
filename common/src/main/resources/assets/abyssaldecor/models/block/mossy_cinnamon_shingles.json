@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/mossycinnamonshingles",
-    "particle": "abyssal_decor:block/mossycinnamonshingles"
+    "all": "abyssaldecor:block/mossycinnamonshingles",
+    "particle": "abyssaldecor:block/mossycinnamonshingles"
   },
   "render_type": "solid"
 }

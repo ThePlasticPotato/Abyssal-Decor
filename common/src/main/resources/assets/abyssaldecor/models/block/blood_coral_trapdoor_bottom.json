@@ -1,7 +1,7 @@
 {
   "parent": "block/door_bottom",
   "textures": {
-    "bottom": "abyssal_decor:blocks/bloodcoraldoorbottom",
-    "top": "abyssal_decor:blocks/bloodcoraldoortop"
+    "bottom": "abyssaldecor:blocks/bloodcoraldoorbottom",
+    "top": "abyssaldecor:blocks/bloodcoraldoortop"
   }
 }

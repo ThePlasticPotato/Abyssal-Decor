@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/rivited_seabrass_slab",
+  "parent": "abyssaldecor:block/rivited_seabrass_slab",
   "display": {
     "thirdperson": {
       "rotation": [

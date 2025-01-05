@@ -1,9 +1,9 @@
 {
   "parent": "block/outer_stairs",
   "textures": {
-    "bottom": "abyssal_decor:block/cinnamonplanks",
-    "top": "abyssal_decor:block/cinnamonplanks",
-    "side": "abyssal_decor:block/cinnamonplanks"
+    "bottom": "abyssaldecor:block/cinnamonplanks",
+    "top": "abyssaldecor:block/cinnamonplanks",
+    "side": "abyssaldecor:block/cinnamonplanks"
   },
   "render_type": "solid"
 }

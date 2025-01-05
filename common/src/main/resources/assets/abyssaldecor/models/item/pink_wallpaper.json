@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/pink_wallpaper",
+  "parent": "abyssaldecor:block/pink_wallpaper",
   "display": {
     "thirdperson": {
       "rotation": [

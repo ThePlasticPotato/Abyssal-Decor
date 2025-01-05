@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/scrimshaw_altar",
+  "parent": "abyssaldecor:block/scrimshaw_altar",
   "display": {
     "thirdperson": {
       "rotation": [

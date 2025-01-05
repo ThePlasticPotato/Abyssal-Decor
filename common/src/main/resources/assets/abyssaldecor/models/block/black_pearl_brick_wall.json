@@ -1,8 +1,8 @@
 {
   "parent": "block/template_wall_side",
   "textures": {
-    "wall": "abyssal_decor:block/blackpearlbricks",
-    "particle": "abyssal_decor:block/blackpearlbricks"
+    "wall": "abyssaldecor:block/blackpearlbricks",
+    "particle": "abyssaldecor:block/blackpearlbricks"
   },
   "render_type": "solid"
 }

@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/bronzepipelargetop",
-    "up": "abyssal_decor:block/bronzepipelargetop",
-    "north": "abyssal_decor:block/bronzepipelarge",
-    "east": "abyssal_decor:block/bronzepipelarge",
-    "south": "abyssal_decor:block/bronzepipelarge",
-    "west": "abyssal_decor:block/bronzepipelarge",
-    "particle": "abyssal_decor:block/bronzepipelargetop"
+    "down": "abyssaldecor:block/bronzepipelargetop",
+    "up": "abyssaldecor:block/bronzepipelargetop",
+    "north": "abyssaldecor:block/bronzepipelarge",
+    "east": "abyssaldecor:block/bronzepipelarge",
+    "south": "abyssaldecor:block/bronzepipelarge",
+    "west": "abyssaldecor:block/bronzepipelarge",
+    "particle": "abyssaldecor:block/bronzepipelargetop"
   },
   "render_type": "solid"
 }

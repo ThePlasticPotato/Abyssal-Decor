@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:block/moldfrondstop"
+    "layer0": "abyssaldecor:block/moldfrondstop"
   }
 }

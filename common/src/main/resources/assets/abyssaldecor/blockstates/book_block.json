@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssaldecor:block/book_block"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/book_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/book_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/book_block",
+      "y": 270
+    }
+  }
+}

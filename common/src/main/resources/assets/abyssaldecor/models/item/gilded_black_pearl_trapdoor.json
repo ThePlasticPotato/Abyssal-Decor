@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/gilded_black_pearl_trapdoor",
+  "parent": "abyssaldecor:block/gilded_black_pearl_trapdoor",
   "display": {
     "thirdperson": {
       "rotation": [

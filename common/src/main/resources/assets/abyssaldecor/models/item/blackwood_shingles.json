@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blackwood_shingles",
+  "parent": "abyssaldecor:block/blackwood_shingles",
   "display": {
     "thirdperson": {
       "rotation": [

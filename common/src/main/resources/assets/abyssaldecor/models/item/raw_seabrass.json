@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/rawseabrass"
+    "layer0": "abyssaldecor:item/rawseabrass"
   }
 }

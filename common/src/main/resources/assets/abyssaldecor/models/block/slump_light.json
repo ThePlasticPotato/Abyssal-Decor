@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/slumplight",
+  "parent": "abyssaldecor:custom/slumplight",
   "textures": {
-    "all": "abyssal_decor:block/slumplight",
-    "particle": "abyssal_decor:block/slumplight",
-    "0": "abyssal_decor:block/slumplight"
+    "all": "abyssaldecor:block/slumplight",
+    "particle": "abyssaldecor:block/slumplight",
+    "0": "abyssaldecor:block/slumplight"
   },
   "render_type": "cutout_mipped"
 }

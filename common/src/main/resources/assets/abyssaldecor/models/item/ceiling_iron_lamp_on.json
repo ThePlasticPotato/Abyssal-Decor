@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/ceiling_iron_lamp_on",
+  "parent": "abyssaldecor:block/ceiling_iron_lamp_on",
   "display": {
     "thirdperson": {
       "rotation": [

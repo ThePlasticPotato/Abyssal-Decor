@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/iron_duct",
+  "parent": "abyssaldecor:block/iron_duct",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,8 +1,8 @@
 {
   "parent": "block/template_glass_pane_side",
   "textures": {
-    "edge": "abyssal_decor:block/goldbarstop",
-    "pane": "abyssal_decor:block/goldbarstop"
+    "edge": "abyssaldecor:block/goldbarstop",
+    "pane": "abyssaldecor:block/goldbarstop"
   },
   "render_type": "cutout_mipped"
 }

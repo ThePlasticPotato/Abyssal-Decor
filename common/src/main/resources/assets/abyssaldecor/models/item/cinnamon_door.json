@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/cinnamondooricon"
+    "layer0": "abyssaldecor:item/cinnamondooricon"
   },
   "render_type": "translucent"
 }

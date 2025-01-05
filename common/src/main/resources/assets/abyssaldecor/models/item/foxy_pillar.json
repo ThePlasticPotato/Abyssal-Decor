@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/foxy_pillar",
+  "parent": "abyssaldecor:block/foxy_pillar",
   "display": {
     "thirdperson": {
       "rotation": [

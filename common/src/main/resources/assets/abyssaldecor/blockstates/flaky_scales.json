@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssaldecor:block/flaky_scales"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/flaky_scales",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/flaky_scales",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/flaky_scales",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssaldecor:block/flaky_scales",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssaldecor:block/flaky_scales",
+      "x": 90
+    }
+  }
+}

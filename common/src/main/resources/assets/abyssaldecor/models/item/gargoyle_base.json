@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/gargoyleitem"
+    "layer0": "abyssaldecor:item/gargoyleitem"
   },
   "render_type": "translucent"
 }

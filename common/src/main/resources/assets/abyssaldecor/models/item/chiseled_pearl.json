@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/chiseled_pearl",
+  "parent": "abyssaldecor:block/chiseled_pearl",
   "display": {
     "thirdperson": {
       "rotation": [

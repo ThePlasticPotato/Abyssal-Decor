@@ -1,8 +1,8 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/bloodcoralbud",
-    "particle": "abyssal_decor:block/bloodcoralbud"
+    "cross": "abyssaldecor:block/bloodcoralbud",
+    "particle": "abyssaldecor:block/bloodcoralbud"
   },
   "render_type": "cutout_mipped"
 }

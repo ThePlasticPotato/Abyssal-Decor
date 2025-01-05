@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssaldecor:block/rough_blood_coral",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssaldecor:block/rough_blood_coral"
+    },
+    "axis=z": {
+      "model": "abyssaldecor:block/rough_blood_coral",
+      "x": 90
+    }
+  }
+}

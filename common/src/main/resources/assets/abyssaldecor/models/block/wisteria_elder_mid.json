@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/wisteriaeldermid",
+  "parent": "abyssaldecor:custom/wisteriaeldermid",
   "textures": {
-    "all": "abyssal_decor:block/wisteriaeldermid",
-    "particle": "abyssal_decor:block/wisteriaeldermid",
-    "1": "abyssal_decor:block/wisteriaeldermid"
+    "all": "abyssaldecor:block/wisteriaeldermid",
+    "particle": "abyssaldecor:block/wisteriaeldermid",
+    "1": "abyssaldecor:block/wisteriaeldermid"
   },
   "render_type": "cutout_mipped"
 }

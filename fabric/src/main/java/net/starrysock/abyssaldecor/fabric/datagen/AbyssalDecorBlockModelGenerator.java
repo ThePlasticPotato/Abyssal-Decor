@@ -7,11 +7,8 @@ import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.minecraft.data.models.BlockModelGenerators;
 import net.minecraft.data.models.ItemModelGenerators;
 import net.minecraft.data.models.blockstates.BlockStateGenerator;
-import net.minecraft.data.models.blockstates.MultiPartGenerator;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.levelgen.feature.stateproviders.BlockStateProvider;
-import net.starrysock.abyssaldecor.content.SmallBarsBlock;
 
 public class AbyssalDecorBlockModelGenerator extends FabricModelProvider {
     public AbyssalDecorBlockModelGenerator(FabricDataOutput output) {

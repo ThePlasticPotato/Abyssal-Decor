@@ -1,11 +1,11 @@
 {
-  "parent": "abyssal_decor:custom/fresnellamp",
+  "parent": "abyssaldecor:custom/fresnellamp",
   "textures": {
-    "all": "abyssal_decor:block/fresnelside",
-    "particle": "abyssal_decor:block/fresnelside",
-    "0": "abyssal_decor:block/fresneltop",
-    "1": "abyssal_decor:block/fresnelside",
-    "2": "abyssal_decor:block/fresnelinside"
+    "all": "abyssaldecor:block/fresnelside",
+    "particle": "abyssaldecor:block/fresnelside",
+    "0": "abyssaldecor:block/fresneltop",
+    "1": "abyssaldecor:block/fresnelside",
+    "2": "abyssaldecor:block/fresnelinside"
   },
   "render_type": "translucent"
 }

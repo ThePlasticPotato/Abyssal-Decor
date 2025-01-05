@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssaldecor:block/lunar_rod"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/lunar_rod",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/lunar_rod",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/lunar_rod",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssaldecor:block/lunar_rod",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssaldecor:block/lunar_rod",
+      "x": 90
+    }
+  }
+}

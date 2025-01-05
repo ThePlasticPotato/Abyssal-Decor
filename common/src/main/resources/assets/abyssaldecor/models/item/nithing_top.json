@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/nithing_top",
+  "parent": "abyssaldecor:block/nithing_top",
   "display": {
     "thirdperson": {
       "rotation": [

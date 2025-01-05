@@ -1,9 +1,9 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-    "bottom": "abyssal_decor:block/bloodcoralbrickslab",
-    "top": "abyssal_decor:block/bloodcoralbrickslab",
-    "side": "abyssal_decor:block/bloodcoralbrickslab"
+    "bottom": "abyssaldecor:block/bloodcoralbrickslab",
+    "top": "abyssaldecor:block/bloodcoralbrickslab",
+    "side": "abyssaldecor:block/bloodcoralbrickslab"
   },
   "render_type": "solid"
 }

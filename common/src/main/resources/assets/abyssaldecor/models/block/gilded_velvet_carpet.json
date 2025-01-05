@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/velvetcarpetgilded",
+  "parent": "abyssaldecor:custom/velvetcarpetgilded",
   "textures": {
-    "all": "abyssal_decor:block/gildedvelvet",
-    "particle": "abyssal_decor:block/gildedvelvet",
-    "0": "abyssal_decor:block/gildedvelvet"
+    "all": "abyssaldecor:block/gildedvelvet",
+    "particle": "abyssaldecor:block/gildedvelvet",
+    "0": "abyssaldecor:block/gildedvelvet"
   },
   "render_type": "solid"
 }

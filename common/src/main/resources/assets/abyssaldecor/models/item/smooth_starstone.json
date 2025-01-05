@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/smooth_starstone",
+  "parent": "abyssaldecor:block/smooth_starstone",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/seabrass_trim",
+  "parent": "abyssaldecor:block/seabrass_trim",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/woodfrog",
+  "parent": "abyssaldecor:custom/woodfrog",
   "textures": {
-    "all": "abyssal_decor:block/woodfrogtexture",
-    "particle": "abyssal_decor:block/woodfrogtexture",
-    "2": "abyssal_decor:block/woodfrogtexture"
+    "all": "abyssaldecor:block/woodfrogtexture",
+    "particle": "abyssaldecor:block/woodfrogtexture",
+    "2": "abyssaldecor:block/woodfrogtexture"
   },
   "render_type": "solid"
 }

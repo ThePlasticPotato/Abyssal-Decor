@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/upsidedownbrasssconce",
+  "parent": "abyssaldecor:custom/upsidedownbrasssconce",
   "textures": {
-    "all": "abyssal_decor:block/brasssconce",
-    "particle": "abyssal_decor:block/brasssconce",
-    "2": "abyssal_decor:block/brasssconce"
+    "all": "abyssaldecor:block/brasssconce",
+    "particle": "abyssaldecor:block/brasssconce",
+    "2": "abyssaldecor:block/brasssconce"
   },
   "render_type": "cutout_mipped"
 }

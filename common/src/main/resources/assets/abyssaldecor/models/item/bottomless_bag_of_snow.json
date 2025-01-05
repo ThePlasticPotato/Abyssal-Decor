@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/bottomlessbagsnow"
+    "layer0": "abyssaldecor:item/bottomlessbagsnow"
   }
 }

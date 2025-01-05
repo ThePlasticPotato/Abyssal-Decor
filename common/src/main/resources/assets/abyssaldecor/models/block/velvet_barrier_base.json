@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/velvetbarrierbase",
+  "parent": "abyssaldecor:custom/velvetbarrierbase",
   "textures": {
-    "all": "abyssal_decor:block/velvetbarrier1",
-    "particle": "abyssal_decor:block/velvetbarrier1",
-    "0": "abyssal_decor:block/velvetbarrier1"
+    "all": "abyssaldecor:block/velvetbarrier1",
+    "particle": "abyssaldecor:block/velvetbarrier1",
+    "0": "abyssaldecor:block/velvetbarrier1"
   },
   "render_type": "solid"
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/gilded_lapis_pillar",
+  "parent": "abyssaldecor:block/gilded_lapis_pillar",
   "display": {
     "thirdperson": {
       "rotation": [

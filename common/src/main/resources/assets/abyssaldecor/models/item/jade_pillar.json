@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/jade_pillar",
+  "parent": "abyssaldecor:block/jade_pillar",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,8 +1,6 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/aster",
-    "particle": "abyssal_decor:block/aster"
-  },
-  "render_type": "cutout"
+    "cross": "abyssaldecor:block/aster"
+  }
 }

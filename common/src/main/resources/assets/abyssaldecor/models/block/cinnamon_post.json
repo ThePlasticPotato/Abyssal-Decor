@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/cinnamonpostbottom",
+  "parent": "abyssaldecor:custom/cinnamonpostbottom",
   "textures": {
-    "all": "abyssal_decor:block/cinnamonpost",
-    "particle": "abyssal_decor:block/cinnamonpost",
-    "1": "abyssal_decor:block/cinnamonpost"
+    "all": "abyssaldecor:block/cinnamonpost",
+    "particle": "abyssaldecor:block/cinnamonpost",
+    "1": "abyssaldecor:block/cinnamonpost"
   },
   "render_type": "solid"
 }

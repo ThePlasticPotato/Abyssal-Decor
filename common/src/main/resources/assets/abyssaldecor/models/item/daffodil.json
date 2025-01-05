@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "abyssaldecor:block/daffodil",
   "textures": {
-    "layer0": "abyssal_decor:block/daffodil"
+    "layer0": "abyssaldecor:block/daffodil"
   }
 }

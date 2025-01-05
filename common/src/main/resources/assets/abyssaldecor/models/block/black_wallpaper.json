@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/wallpaperblackb",
-    "up": "abyssal_decor:block/wallpaperblack",
-    "north": "abyssal_decor:block/wallpaperblack",
-    "east": "abyssal_decor:block/wallpaperblackr",
-    "south": "abyssal_decor:block/wallpaperblack",
-    "west": "abyssal_decor:block/wallpaperblackl",
-    "particle": "abyssal_decor:block/wallpaperblackb"
+    "down": "abyssaldecor:block/wallpaperblackb",
+    "up": "abyssaldecor:block/wallpaperblack",
+    "north": "abyssaldecor:block/wallpaperblack",
+    "east": "abyssaldecor:block/wallpaperblackr",
+    "south": "abyssaldecor:block/wallpaperblack",
+    "west": "abyssaldecor:block/wallpaperblackl",
+    "particle": "abyssaldecor:block/wallpaperblackb"
   },
   "render_type": "solid"
 }

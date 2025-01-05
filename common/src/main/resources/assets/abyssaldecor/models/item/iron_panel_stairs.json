@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/iron_panel_stairs",
+  "parent": "abyssaldecor:block/iron_panel_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

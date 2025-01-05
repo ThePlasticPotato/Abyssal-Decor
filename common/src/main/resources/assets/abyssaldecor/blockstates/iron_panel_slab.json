@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/iron_panel_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/iron_panel_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/iron_panel_slab_full"
+    }
+  }
+}

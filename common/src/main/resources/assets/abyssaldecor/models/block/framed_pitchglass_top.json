@@ -1,11 +1,11 @@
 {
   "parent": "block/grass_block",
   "textures": {
-    "bottom": "abyssal_decor:block/pitchglasspanesolo",
-    "top": "abyssal_decor:block/pitchglasspanesolo",
-    "side": "abyssal_decor:block/pitchglasspanetop",
-    "overlay": "abyssal_decor:block/pitchglasspanetop",
-    "particle": "abyssal_decor:block/pitchglasspanesolo"
+    "bottom": "abyssaldecor:block/pitchglasspanesolo",
+    "top": "abyssaldecor:block/pitchglasspanesolo",
+    "side": "abyssaldecor:block/pitchglasspanetop",
+    "overlay": "abyssaldecor:block/pitchglasspanetop",
+    "particle": "abyssaldecor:block/pitchglasspanesolo"
   },
   "render_type": "translucent"
 }

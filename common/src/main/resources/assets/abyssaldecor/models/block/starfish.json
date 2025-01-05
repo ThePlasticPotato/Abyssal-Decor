@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/starfishorange1",
+  "parent": "abyssaldecor:custom/starfishorange1",
   "textures": {
-    "all": "abyssal_decor:block/starfishorange1",
-    "particle": "abyssal_decor:block/starfishorange1",
-    "0": "abyssal_decor:block/starfishorange1"
+    "all": "abyssaldecor:block/starfishorange1",
+    "particle": "abyssaldecor:block/starfishorange1",
+    "0": "abyssaldecor:block/starfishorange1"
   },
   "render_type": "cutout_mipped"
 }

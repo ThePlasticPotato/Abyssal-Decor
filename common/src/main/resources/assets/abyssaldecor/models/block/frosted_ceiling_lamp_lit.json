@@ -1,10 +1,10 @@
 {
-  "parent": "abyssal_decor:custom/frostedceilinglamplit",
+  "parent": "abyssaldecor:custom/frostedceilinglamplit",
   "textures": {
-    "all": "abyssal_decor:block/frostedceilinglamplit",
-    "particle": "abyssal_decor:block/frostedceilinglamplit",
-    "1": "abyssal_decor:block/frostedceilinglamplit",
-    "2": "abyssal_decor:block/frostedceilinglamp2"
+    "all": "abyssaldecor:block/frostedceilinglamplit",
+    "particle": "abyssaldecor:block/frostedceilinglamplit",
+    "1": "abyssaldecor:block/frostedceilinglamplit",
+    "2": "abyssaldecor:block/frostedceilinglamp2"
   },
   "render_type": "cutout_mipped"
 }

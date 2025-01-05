@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/brasschain",
+  "parent": "abyssaldecor:custom/brasschain",
   "textures": {
-    "all": "abyssal_decor:block/brasschain",
-    "particle": "abyssal_decor:block/brasschain",
-    "1": "abyssal_decor:block/brasschain"
+    "all": "abyssaldecor:block/brasschain",
+    "particle": "abyssaldecor:block/brasschain",
+    "1": "abyssaldecor:block/brasschain"
   },
   "render_type": "cutout_mipped"
 }

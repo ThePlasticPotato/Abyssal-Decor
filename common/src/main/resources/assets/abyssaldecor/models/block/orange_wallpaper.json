@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/wallpaperorangeb",
-    "up": "abyssal_decor:block/wallpaperorange",
-    "north": "abyssal_decor:block/wallpaperorange",
-    "east": "abyssal_decor:block/wallpaperoranger",
-    "south": "abyssal_decor:block/wallpaperorange",
-    "west": "abyssal_decor:block/wallpaperorangel",
-    "particle": "abyssal_decor:block/wallpaperorangeb"
+    "down": "abyssaldecor:block/wallpaperorangeb",
+    "up": "abyssaldecor:block/wallpaperorange",
+    "north": "abyssaldecor:block/wallpaperorange",
+    "east": "abyssaldecor:block/wallpaperoranger",
+    "south": "abyssaldecor:block/wallpaperorange",
+    "west": "abyssaldecor:block/wallpaperorangel",
+    "particle": "abyssaldecor:block/wallpaperorangeb"
   },
   "render_type": "solid"
 }

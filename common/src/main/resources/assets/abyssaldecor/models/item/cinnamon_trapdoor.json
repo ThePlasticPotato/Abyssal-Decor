@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/cinnamon_trapdoor",
+  "parent": "abyssaldecor:block/cinnamon_trapdoor",
   "display": {
     "thirdperson": {
       "rotation": [

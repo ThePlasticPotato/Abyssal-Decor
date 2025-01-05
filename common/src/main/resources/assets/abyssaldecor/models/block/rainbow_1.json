@@ -1,10 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/rainbowlamp",
+  "parent": "abyssaldecor:custom/rainbowlamp",
   "textures": {
-    "all": "abyssal_decor:block/rainbow2",
-    "particle": "abyssal_decor:block/rainbow2",
-    "1": "abyssal_decor:block/rainbow2",
-    "2": "abyssal_decor:block/rainbowlampbase"
-  },
-  "render_type": "translucent"
+    "all": "abyssaldecor:block/rainbow2",
+    "particle": "abyssaldecor:block/rainbow2",
+    "1": "abyssaldecor:block/rainbow2",
+    "2": "abyssaldecor:block/rainbowlampbase"
+  }
 }

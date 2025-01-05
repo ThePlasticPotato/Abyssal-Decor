@@ -1,9 +1,9 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
-    "bottom": "abyssal_decor:block/blackpearlbricks",
-    "top": "abyssal_decor:block/blackpearlbricks",
-    "side": "abyssal_decor:block/blackpearlbricks"
+    "bottom": "abyssaldecor:block/blackpearlbricks",
+    "top": "abyssaldecor:block/blackpearlbricks",
+    "side": "abyssaldecor:block/blackpearlbricks"
   },
   "render_type": "solid"
 }

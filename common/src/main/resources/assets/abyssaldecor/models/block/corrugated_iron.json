@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/corrugatedirontop",
-    "up": "abyssal_decor:block/corrugatedirontop",
-    "north": "abyssal_decor:block/corrugatedironside",
-    "east": "abyssal_decor:block/corrugatedironside",
-    "south": "abyssal_decor:block/corrugatedironside",
-    "west": "abyssal_decor:block/corrugatedironside",
-    "particle": "abyssal_decor:block/corrugatedirontop"
+    "down": "abyssaldecor:block/corrugatedirontop",
+    "up": "abyssaldecor:block/corrugatedirontop",
+    "north": "abyssaldecor:block/corrugatedironside",
+    "east": "abyssaldecor:block/corrugatedironside",
+    "south": "abyssaldecor:block/corrugatedironside",
+    "west": "abyssaldecor:block/corrugatedironside",
+    "particle": "abyssaldecor:block/corrugatedirontop"
   },
   "render_type": "solid"
 }

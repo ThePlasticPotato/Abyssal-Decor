@@ -1,11 +1,11 @@
 {
   "parent": "block/grass_block",
   "textures": {
-    "bottom": "abyssal_decor:block/jadechiseled",
-    "top": "abyssal_decor:block/jadechiseled",
-    "side": "abyssal_decor:block/jadepillarside",
-    "overlay": "abyssal_decor:block/jadepillarside",
-    "particle": "abyssal_decor:block/jadechiseled"
+    "bottom": "abyssaldecor:block/jadechiseled",
+    "top": "abyssaldecor:block/jadechiseled",
+    "side": "abyssaldecor:block/jadepillarside",
+    "overlay": "abyssaldecor:block/jadepillarside",
+    "particle": "abyssaldecor:block/jadechiseled"
   },
   "render_type": "solid"
 }

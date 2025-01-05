@@ -1,11 +1,11 @@
 {
   "parent": "block/grass_block",
   "textures": {
-    "bottom": "abyssal_decor:block/bloodlamplitsolo",
-    "top": "abyssal_decor:block/bloodlamplitsolo",
-    "side": "abyssal_decor:block/bloodlamplitbottom",
-    "overlay": "abyssal_decor:block/bloodlamplitbottom",
-    "particle": "abyssal_decor:block/bloodlamplitsolo"
+    "bottom": "abyssaldecor:block/bloodlamplitsolo",
+    "top": "abyssaldecor:block/bloodlamplitsolo",
+    "side": "abyssaldecor:block/bloodlamplitbottom",
+    "overlay": "abyssaldecor:block/bloodlamplitbottom",
+    "particle": "abyssaldecor:block/bloodlamplitsolo"
   },
   "render_type": "solid"
 }

@@ -1,8 +1,8 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/cinnamonbush",
-    "particle": "abyssal_decor:block/cinnamonbush"
+    "cross": "abyssaldecor:block/cinnamonbush",
+    "particle": "abyssaldecor:block/cinnamonbush"
   },
   "render_type": "cutout"
 }

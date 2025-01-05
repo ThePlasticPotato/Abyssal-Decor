@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/smooth_pearl_slab",
+  "parent": "abyssaldecor:block/smooth_pearl_slab",
   "display": {
     "thirdperson": {
       "rotation": [

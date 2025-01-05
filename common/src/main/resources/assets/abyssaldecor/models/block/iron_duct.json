@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/ductside",
-    "up": "abyssal_decor:block/ductside",
-    "north": "abyssal_decor:block/ductside",
-    "east": "abyssal_decor:block/ductside",
-    "south": "abyssal_decor:block/ductside",
-    "west": "abyssal_decor:block/ductside",
-    "particle": "abyssal_decor:block/ductside"
+    "down": "abyssaldecor:block/ductside",
+    "up": "abyssaldecor:block/ductside",
+    "north": "abyssaldecor:block/ductside",
+    "east": "abyssaldecor:block/ductside",
+    "south": "abyssaldecor:block/ductside",
+    "west": "abyssaldecor:block/ductside",
+    "particle": "abyssaldecor:block/ductside"
   },
   "render_type": "solid"
 }

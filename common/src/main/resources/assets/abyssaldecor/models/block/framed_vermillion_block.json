@@ -1,11 +1,11 @@
 {
   "parent": "block/grass_block",
   "textures": {
-    "bottom": "abyssal_decor:block/framedvermilliontop",
-    "top": "abyssal_decor:block/framedvermilliontop",
-    "side": "abyssal_decor:block/framedvermillion",
-    "overlay": "abyssal_decor:block/framedvermillion",
-    "particle": "abyssal_decor:block/framedvermilliontop"
+    "bottom": "abyssaldecor:block/framedvermilliontop",
+    "top": "abyssaldecor:block/framedvermilliontop",
+    "side": "abyssaldecor:block/framedvermillion",
+    "overlay": "abyssaldecor:block/framedvermillion",
+    "particle": "abyssaldecor:block/framedvermilliontop"
   },
   "render_type": "translucent"
 }

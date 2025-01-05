@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/bulblamp",
+  "parent": "abyssaldecor:custom/bulblamp",
   "textures": {
-    "all": "abyssal_decor:block/bulblamp",
-    "particle": "abyssal_decor:block/bulblamp",
-    "0": "abyssal_decor:block/bulblamp"
+    "all": "abyssaldecor:block/bulblamp",
+    "particle": "abyssaldecor:block/bulblamp",
+    "0": "abyssaldecor:block/bulblamp"
   },
   "render_type": "cutout_mipped"
 }

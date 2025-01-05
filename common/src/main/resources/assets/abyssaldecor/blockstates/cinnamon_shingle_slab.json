@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/cinnamon_shingle_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/cinnamon_shingle_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/cinnamon_shingle_slab_full"
+    }
+  }
+}

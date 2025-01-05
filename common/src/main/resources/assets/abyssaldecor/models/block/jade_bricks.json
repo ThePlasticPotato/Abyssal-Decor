@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/jadebricks",
-    "particle": "abyssal_decor:block/jadebricks"
+    "all": "abyssaldecor:block/jadebricks",
+    "particle": "abyssaldecor:block/jadebricks"
   },
   "render_type": "solid"
 }

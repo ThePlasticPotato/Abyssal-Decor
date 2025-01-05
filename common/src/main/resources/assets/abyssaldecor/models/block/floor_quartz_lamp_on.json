@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/floorgaslampon",
+  "parent": "abyssaldecor:custom/floorgaslampon",
   "textures": {
-    "all": "abyssal_decor:block/wallquartzlampon",
-    "particle": "abyssal_decor:block/wallquartzlampon",
-    "3": "abyssal_decor:block/floorquartzlampon"
+    "all": "abyssaldecor:block/wallquartzlampon",
+    "particle": "abyssaldecor:block/wallquartzlampon",
+    "3": "abyssaldecor:block/floorquartzlampon"
   },
   "render_type": "translucent"
 }

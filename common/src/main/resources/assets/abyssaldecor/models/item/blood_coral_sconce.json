@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blood_coral_sconce",
+  "parent": "abyssaldecor:block/blood_coral_sconce",
   "display": {
     "thirdperson": {
       "rotation": [

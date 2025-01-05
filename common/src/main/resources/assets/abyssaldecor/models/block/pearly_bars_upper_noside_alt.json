@@ -1,7 +1,7 @@
 {
   "parent": "block/template_glass_pane_noside_alt",
   "textures": {
-    "pane": "abyssal_decor:block/pearlybarstop"
+    "pane": "abyssaldecor:block/pearlybarstop"
   },
   "render_type": "cutout_mipped"
 }

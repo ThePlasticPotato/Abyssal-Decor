@@ -1,8 +1,8 @@
 {
   "parent": "block/template_orientable_trapdoor_bottom",
   "textures": {
-    "texture": "abyssal_decor:block/bronzetrapdoor",
-    "particle": "abyssal_decor:block/bronzetrapdoor"
+    "texture": "abyssaldecor:block/bronzetrapdoor",
+    "particle": "abyssaldecor:block/bronzetrapdoor"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/brick_trapdoor",
+  "parent": "abyssaldecor:block/brick_trapdoor",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,8 +1,8 @@
 {
   "parent": "block/template_glass_pane_post",
   "textures": {
-    "edge": "abyssal_decor:block/pearlyglasspanesunny",
-    "pane": "abyssal_decor:block/pearlyglasspanesunny"
+    "edge": "abyssaldecor:block/pearlyglasspanesunny",
+    "pane": "abyssaldecor:block/pearlyglasspanesunny"
   },
   "render_type": "solid"
 }

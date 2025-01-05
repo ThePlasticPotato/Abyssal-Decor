@@ -1,10 +1,10 @@
 {
-  "parent": "abyssal_decor:custom/clampearlclosed",
+  "parent": "abyssaldecor:custom/clampearlclosed",
   "textures": {
-    "all": "abyssal_decor:block/clam1",
-    "particle": "abyssal_decor:block/clam1",
-    "0": "abyssal_decor:block/clam1",
-    "1": "abyssal_decor:block/clam2"
+    "all": "abyssaldecor:block/clam1",
+    "particle": "abyssaldecor:block/clam1",
+    "0": "abyssaldecor:block/clam1",
+    "1": "abyssaldecor:block/clam2"
   },
   "render_type": "cutout_mipped"
 }

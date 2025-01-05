@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/smallcleanbars",
+  "parent": "abyssaldecor:custom/smallcleanbars",
   "textures": {
-    "all": "abyssal_decor:block/smallbarsclean",
-    "particle": "abyssal_decor:block/smallbarsclean",
-    "1": "abyssal_decor:block/smallbarsclean"
+    "all": "abyssaldecor:block/smallbarsclean",
+    "particle": "abyssaldecor:block/smallbarsclean",
+    "1": "abyssaldecor:block/smallbarsclean"
   },
   "render_type": "cutout_mipped"
 }

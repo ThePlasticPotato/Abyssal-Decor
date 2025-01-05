@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/woolcurtainsmid",
+  "parent": "abyssaldecor:custom/woolcurtainsmid",
   "textures": {
-    "all": "abyssal_decor:block/woolcurtainsmid",
-    "particle": "abyssal_decor:block/woolcurtainsmid",
-    "1": "abyssal_decor:block/woolcurtainsmid"
+    "all": "abyssaldecor:block/woolcurtainsmid",
+    "particle": "abyssaldecor:block/woolcurtainsmid",
+    "1": "abyssaldecor:block/woolcurtainsmid"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/gildedvelvet",
-    "particle": "abyssal_decor:block/gildedvelvet"
+    "all": "abyssaldecor:block/gildedvelvet",
+    "particle": "abyssaldecor:block/gildedvelvet"
   },
   "render_type": "solid"
 }

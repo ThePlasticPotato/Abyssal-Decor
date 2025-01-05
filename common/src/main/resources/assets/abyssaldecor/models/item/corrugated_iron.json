@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/corrugated_iron",
+  "parent": "abyssaldecor:block/corrugated_iron",
   "display": {
     "thirdperson": {
       "rotation": [

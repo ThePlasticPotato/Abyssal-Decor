@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/green_wallpaper",
+  "parent": "abyssaldecor:block/green_wallpaper",
   "display": {
     "thirdperson": {
       "rotation": [

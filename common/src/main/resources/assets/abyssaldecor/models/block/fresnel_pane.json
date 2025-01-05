@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:blocks/fresnelside",
-    "particle": "abyssal_decor:blocks/fresnelside"
+    "all": "abyssaldecor:blocks/fresnelside",
+    "particle": "abyssaldecor:blocks/fresnelside"
   }
 }

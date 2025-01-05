@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/serpent_flesh_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/serpent_flesh_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/serpent_flesh_slab_full"
+    }
+  }
+}

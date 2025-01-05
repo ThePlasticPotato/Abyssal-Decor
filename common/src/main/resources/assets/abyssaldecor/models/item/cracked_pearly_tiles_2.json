@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/cracked_pearly_tiles_2",
+  "parent": "abyssaldecor:block/cracked_pearly_tiles_2",
   "display": {
     "thirdperson": {
       "rotation": [

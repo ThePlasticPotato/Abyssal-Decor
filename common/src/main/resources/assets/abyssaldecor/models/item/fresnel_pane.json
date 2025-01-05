@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:block/fresnelside"
+    "layer0": "abyssaldecor:block/fresnelside"
   },
   "render_type": "translucent"
 }

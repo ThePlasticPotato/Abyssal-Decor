@@ -1,7 +1,7 @@
 {
   "parent": "block/template_fence_gate_wall",
   "textures": {
-    "texture": "abyssal_decor:block/blackwoodplanks"
+    "texture": "abyssaldecor:block/blackwoodplanks"
   },
   "render_type": "solid"
 }

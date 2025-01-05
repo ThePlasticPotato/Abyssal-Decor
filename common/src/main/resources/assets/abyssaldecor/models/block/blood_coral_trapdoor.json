@@ -1,8 +1,8 @@
 {
   "parent": "block/template_orientable_trapdoor_bottom",
   "textures": {
-    "texture": "abyssal_decor:block/bloodcoraltrapdoor",
-    "particle": "abyssal_decor:block/bloodcoraltrapdoor"
+    "texture": "abyssaldecor:block/bloodcoraltrapdoor",
+    "particle": "abyssaldecor:block/bloodcoraltrapdoor"
   },
   "render_type": "cutout_mipped"
 }

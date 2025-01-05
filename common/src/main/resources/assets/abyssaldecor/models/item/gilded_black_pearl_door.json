@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/gildedblackpearldooricon"
+    "layer0": "abyssaldecor:item/gildedblackpearldooricon"
   },
   "render_type": "translucent"
 }

@@ -1,9 +1,9 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
-    "bottom": "abyssal_decor:block/bloodcoralpolished",
-    "top": "abyssal_decor:block/bloodcoralpolished",
-    "side": "abyssal_decor:block/bloodcoralpolished"
+    "bottom": "abyssaldecor:block/bloodcoralpolished",
+    "top": "abyssaldecor:block/bloodcoralpolished",
+    "side": "abyssaldecor:block/bloodcoralpolished"
   },
   "render_type": "solid"
 }

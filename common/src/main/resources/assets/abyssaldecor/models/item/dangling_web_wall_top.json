@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/dangling_web_wall_top",
+  "parent": "abyssaldecor:block/dangling_web_wall_top",
   "display": {
     "thirdperson": {
       "rotation": [

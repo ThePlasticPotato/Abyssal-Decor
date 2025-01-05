@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/gilded_blood_coral_pillar",
+  "parent": "abyssaldecor:block/gilded_blood_coral_pillar",
   "display": {
     "thirdperson": {
       "rotation": [

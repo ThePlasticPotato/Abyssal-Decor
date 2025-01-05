@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:blocks/smoothice",
-    "particle": "abyssal_decor:blocks/smoothice"
+    "all": "abyssaldecor:blocks/smoothice",
+    "particle": "abyssaldecor:blocks/smoothice"
   }
 }

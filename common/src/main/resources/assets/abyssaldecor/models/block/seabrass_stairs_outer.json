@@ -1,9 +1,9 @@
 {
   "parent": "block/outer_stairs",
   "textures": {
-    "bottom": "abyssal_decor:block/brassblock",
-    "top": "abyssal_decor:block/brassblock",
-    "side": "abyssal_decor:block/brassblock"
+    "bottom": "abyssaldecor:block/brassblock",
+    "top": "abyssaldecor:block/brassblock",
+    "side": "abyssaldecor:block/brassblock"
   },
   "render_type": "solid"
 }

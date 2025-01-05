@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/brasslampon",
-    "particle": "abyssal_decor:block/brasslampon"
+    "all": "abyssaldecor:block/brasslampon",
+    "particle": "abyssaldecor:block/brasslampon"
   },
   "render_type": "solid"
 }

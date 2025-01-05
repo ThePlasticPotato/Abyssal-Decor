@@ -1,9 +1,9 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
-    "bottom": "abyssal_decor:block/ironpanel",
-    "top": "abyssal_decor:block/ironpanel",
-    "side": "abyssal_decor:block/ironpanel"
+    "bottom": "abyssaldecor:block/ironpanel",
+    "top": "abyssaldecor:block/ironpanel",
+    "side": "abyssaldecor:block/ironpanel"
   },
   "render_type": "solid"
 }

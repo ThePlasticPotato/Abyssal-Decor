@@ -11,7 +11,11 @@ import java.util.List;
 public enum PaletteType {
     METAL,
     WOOD,
-    PEARL
+    PEARL,
+    GLASSLIKE,
+    FRAMED_GLASSLIKE,
+    CORAL,
+    SIMPLE,
     ;
 
     public String getPath() {
@@ -96,6 +100,39 @@ public enum PaletteType {
                 variants.add("_small_bars");
                 variants.add("_small_bars_corner");
             }
+            case GLASSLIKE -> {
+                variants.add("_block");
+                variants.add("_pane");
+            }
+            case FRAMED_GLASSLIKE -> {
+                variants.add("_block");
+                variants.add("_pane");
+                variants.add("_framed_block");
+                variants.add("_framed_pane");
+            }
+            case CORAL -> {
+                variants.add("_bud");
+                variants.add("_smooth");
+                variants.add("_smooth_slab");
+                variants.add("_smooth_stairs");
+                variants.add("_smooth_wall");
+                variants.add("_polished");
+                variants.add("_polished_slab");
+                variants.add("_polished_stairs");
+                variants.add("_polished_wall");
+                variants.add("_bricks");
+                variants.add("_brick_slab");
+                variants.add("_brick_stairs");
+                variants.add("_brick_wall");
+                variants.add("_pillar");
+                variants.add("_gilded_pillar");
+                variants.add("_rough");
+                variants.add("_door");
+                variants.add("_trapdoor");
+                variants.add("_bars");
+                variants.add("_lantern");
+                variants.add("_sconce");
+            }
         }
         return variants;
     }
@@ -105,14 +142,18 @@ public enum PaletteType {
             case METAL -> BlockBehaviour.Properties.copy(Blocks.COPPER_BLOCK);
             case WOOD -> BlockBehaviour.Properties.copy(Blocks.OAK_WOOD);
             case PEARL -> BlockBehaviour.Properties.copy(Blocks.QUARTZ_BLOCK);
+            case GLASSLIKE, FRAMED_GLASSLIKE -> BlockBehaviour.Properties.copy(Blocks.GLASS);
+            case CORAL -> BlockBehaviour.Properties.copy(Blocks.BRAIN_CORAL_BLOCK);
+            case SIMPLE -> BlockBehaviour.Properties.copy(Blocks.STONE);
         };
     }
 
     public BlockSetType getSetType() {
         return switch (this) {
-            case METAL -> BlockSetType.IRON;
+            case METAL, FRAMED_GLASSLIKE -> BlockSetType.IRON;
             case WOOD -> BlockSetType.OAK;
-            case PEARL -> BlockSetType.STONE;
+            case PEARL, GLASSLIKE, SIMPLE -> BlockSetType.STONE;
+            case CORAL -> BlockSetType.CRIMSON;
         };
     }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/brick_cap_flipped",
+  "parent": "abyssaldecor:block/brick_cap_flipped",
   "display": {
     "thirdperson": {
       "rotation": [

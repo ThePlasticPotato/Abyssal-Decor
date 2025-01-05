@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/goldsconce",
+  "parent": "abyssaldecor:custom/goldsconce",
   "textures": {
-    "all": "abyssal_decor:block/goldsconce",
-    "particle": "abyssal_decor:block/goldsconce",
-    "0": "abyssal_decor:block/goldsconce"
+    "all": "abyssaldecor:block/goldsconce",
+    "particle": "abyssaldecor:block/goldsconce",
+    "0": "abyssaldecor:block/goldsconce"
   },
   "render_type": "cutout_mipped"
 }

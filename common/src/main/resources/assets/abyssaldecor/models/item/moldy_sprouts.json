@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/moldysprouts"
+    "layer0": "abyssaldecor:item/moldysprouts"
   },
   "render_type": "translucent"
 }

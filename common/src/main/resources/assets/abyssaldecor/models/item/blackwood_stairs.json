@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blackwood_stairs",
+  "parent": "abyssaldecor:block/blackwood_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

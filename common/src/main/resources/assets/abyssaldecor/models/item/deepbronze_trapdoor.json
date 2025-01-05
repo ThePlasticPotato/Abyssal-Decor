@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/deepbronze_trapdoor",
+  "parent": "abyssaldecor:block/deepbronze_trapdoor",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,9 +1,9 @@
 {
   "parent": "block/slab_top",
   "textures": {
-    "bottom": "abyssal_decor:block/blackpearlblock",
-    "top": "abyssal_decor:block/blackpearlblock",
-    "side": "abyssal_decor:block/blackpearlblock"
+    "bottom": "abyssaldecor:block/blackpearlblock",
+    "top": "abyssaldecor:block/blackpearlblock",
+    "side": "abyssaldecor:block/blackpearlblock"
   },
   "render_type": "solid"
 }

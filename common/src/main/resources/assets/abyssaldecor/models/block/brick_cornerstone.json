@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/cornerstonebottom",
-    "up": "abyssal_decor:block/cornerstonetop",
-    "north": "abyssal_decor:block/cornerstoneflipped",
-    "east": "abyssal_decor:block/cornerstonefront",
-    "south": "abyssal_decor:block/cornerstoneflipped",
-    "west": "abyssal_decor:block/cornerstonefront",
-    "particle": "abyssal_decor:block/cornerstonebottom"
+    "down": "abyssaldecor:block/cornerstonebottom",
+    "up": "abyssaldecor:block/cornerstonetop",
+    "north": "abyssaldecor:block/cornerstoneflipped",
+    "east": "abyssaldecor:block/cornerstonefront",
+    "south": "abyssaldecor:block/cornerstoneflipped",
+    "west": "abyssaldecor:block/cornerstonefront",
+    "particle": "abyssaldecor:block/cornerstonebottom"
   },
   "render_type": "solid"
 }

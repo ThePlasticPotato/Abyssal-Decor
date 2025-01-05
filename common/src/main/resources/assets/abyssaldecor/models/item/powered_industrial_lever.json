@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/powered_industrial_lever",
+  "parent": "abyssaldecor:block/powered_industrial_lever",
   "display": {
     "thirdperson": {
       "rotation": [

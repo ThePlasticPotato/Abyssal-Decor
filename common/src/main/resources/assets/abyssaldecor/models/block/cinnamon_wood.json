@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/cinnamonlogside",
-    "particle": "abyssal_decor:block/cinnamonlogside"
+    "all": "abyssaldecor:block/cinnamonlogside",
+    "particle": "abyssaldecor:block/cinnamonlogside"
   },
   "render_type": "solid"
 }

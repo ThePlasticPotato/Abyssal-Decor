@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/white_wood_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/white_wood_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/white_wood_planks"
+    }
+  }
+}
+

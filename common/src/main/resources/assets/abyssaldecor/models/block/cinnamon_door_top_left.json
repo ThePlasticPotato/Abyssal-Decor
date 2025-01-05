@@ -1,8 +1,8 @@
 {
   "parent": "block/door_top_left",
   "textures": {
-    "bottom": "abyssal_decor:block/cinnamondoorbottom",
-    "top": "abyssal_decor:block/cinnamondoortop"
+    "bottom": "abyssaldecor:block/cinnamondoorbottom",
+    "top": "abyssaldecor:block/cinnamondoortop"
   },
   "render_type": "cutout_mipped"
 }

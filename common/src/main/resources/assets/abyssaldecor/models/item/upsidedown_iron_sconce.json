@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/upsidedown_iron_sconce",
+  "parent": "abyssaldecor:block/upsidedown_iron_sconce",
   "display": {
     "thirdperson": {
       "rotation": [

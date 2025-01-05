@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/quartz_bone",
+  "parent": "abyssaldecor:block/quartz_bone",
   "display": {
     "thirdperson": {
       "rotation": [

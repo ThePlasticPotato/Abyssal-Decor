@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/seabrass_ore",
+  "parent": "abyssaldecor:block/seabrass_ore",
   "display": {
     "thirdperson": {
       "rotation": [

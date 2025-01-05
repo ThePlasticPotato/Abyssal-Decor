@@ -1,7 +1,7 @@
 {
   "parent": "block/button_pressed",
   "textures": {
-    "texture": "abyssal_decor:block/blackwoodplanks"
+    "texture": "abyssaldecor:block/blackwoodplanks"
   },
   "render_type": "solid"
 }

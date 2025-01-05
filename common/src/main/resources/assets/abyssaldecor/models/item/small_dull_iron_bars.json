@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/small_dull_iron_bars",
+  "parent": "abyssaldecor:block/small_dull_iron_bars",
   "display": {
     "thirdperson": {
       "rotation": [

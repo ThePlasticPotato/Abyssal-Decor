@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/veintop",
-    "up": "abyssal_decor:block/veintop",
-    "north": "abyssal_decor:block/ribbedveinside",
-    "east": "abyssal_decor:block/ribbedveinside",
-    "south": "abyssal_decor:block/ribbedveinside",
-    "west": "abyssal_decor:block/ribbedveinside",
-    "particle": "abyssal_decor:block/veintop"
+    "down": "abyssaldecor:block/veintop",
+    "up": "abyssaldecor:block/veintop",
+    "north": "abyssaldecor:block/ribbedveinside",
+    "east": "abyssaldecor:block/ribbedveinside",
+    "south": "abyssaldecor:block/ribbedveinside",
+    "west": "abyssaldecor:block/ribbedveinside",
+    "particle": "abyssaldecor:block/veintop"
   },
   "render_type": "solid"
 }

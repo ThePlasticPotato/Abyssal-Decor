@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blackened_sand",
+  "parent": "abyssaldecor:block/blackened_sand",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/moldy_stalk_inactive",
+  "parent": "abyssaldecor:block/moldy_stalk_inactive",
   "display": {
     "thirdperson": {
       "rotation": [

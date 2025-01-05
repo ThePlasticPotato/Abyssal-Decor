@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/brasschainitem"
+    "layer0": "abyssaldecor:item/brasschainitem"
   },
   "render_type": "translucent"
 }

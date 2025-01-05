@@ -1,10 +1,10 @@
 {
-  "parent": "abyssal_decor:custom/buddingbogapple",
+  "parent": "abyssaldecor:custom/buddingbogapple",
   "textures": {
-    "all": "abyssal_decor:block/bogapple1",
-    "particle": "abyssal_decor:block/bogapple1",
-    "0": "abyssal_decor:block/bogapple1",
-    "1": "abyssal_decor:block/bogapple2"
+    "all": "abyssaldecor:block/bogapple1",
+    "particle": "abyssaldecor:block/bogapple1",
+    "0": "abyssaldecor:block/bogapple1",
+    "1": "abyssaldecor:block/bogapple2"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssaldecor:block/starstone_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssaldecor:block/starstone_pillar"
+    },
+    "axis=z": {
+      "model": "abyssaldecor:block/starstone_pillar",
+      "x": 90
+    }
+  }
+}

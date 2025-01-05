@@ -1,7 +1,7 @@
 {
-  "parent": "abyssal_decor:custom/laer",
+  "parent": "abyssaldecor:custom/laer",
   "textures": {
-    "2": "abyssal_decor:block/laertexture",
-    "particle": "abyssal_decor:item/laertexture"
+    "2": "abyssaldecor:block/laertexture",
+    "particle": "abyssaldecor:item/laertexture"
   }
 }

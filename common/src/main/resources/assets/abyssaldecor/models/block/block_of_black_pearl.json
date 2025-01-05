@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/blackpearlblock",
-    "particle": "abyssal_decor:block/blackpearlblock"
+    "all": "abyssaldecor:block/blackpearlblock",
+    "particle": "abyssaldecor:block/blackpearlblock"
   },
   "render_type": "solid"
 }

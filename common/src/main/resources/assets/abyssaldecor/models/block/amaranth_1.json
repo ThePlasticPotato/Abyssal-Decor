@@ -1,8 +1,7 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/amaranth1",
-    "particle": "abyssal_decor:block/amaranth1"
-  },
-  "render_type": "cutout"
+    "cross": "abyssaldecor:block/amaranth1",
+    "particle": "abyssaldecor:block/amaranth1"
+  }
 }

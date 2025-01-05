@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/telescopeicon"
+    "layer0": "abyssaldecor:item/telescopeicon"
   },
   "render_type": "translucent"
 }

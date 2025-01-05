@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/serpent_flesh",
+  "parent": "abyssaldecor:block/serpent_flesh",
   "display": {
     "thirdperson": {
       "rotation": [

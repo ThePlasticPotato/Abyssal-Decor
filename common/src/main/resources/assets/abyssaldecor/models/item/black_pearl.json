@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/blackpearlitem"
+    "layer0": "abyssaldecor:item/blackpearlitem"
   },
   "render_type": "translucent"
 }

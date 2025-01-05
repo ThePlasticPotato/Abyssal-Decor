@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/brittle_tuff",
+  "parent": "abyssaldecor:block/brittle_tuff",
   "display": {
     "thirdperson": {
       "rotation": [

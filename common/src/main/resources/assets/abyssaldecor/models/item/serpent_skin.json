@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/serpent_skin",
+  "parent": "abyssaldecor:block/serpent_skin",
   "display": {
     "thirdperson": {
       "rotation": [

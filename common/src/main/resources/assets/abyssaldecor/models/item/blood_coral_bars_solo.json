@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:block/bloodcoralbarssolo"
+    "layer0": "abyssaldecor:block/bloodcoralbarssolo"
   },
   "render_type": "cutout_mipped"
 }

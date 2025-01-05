@@ -1,7 +1,7 @@
 {
   "parent": "block/door_bottom",
   "textures": {
-    "bottom": "abyssal_decor:blocks/bronzedoorbottom",
-    "top": "abyssal_decor:blocks/bronzedoortop"
+    "bottom": "abyssaldecor:blocks/bronzedoorbottom",
+    "top": "abyssaldecor:blocks/bronzedoortop"
   }
 }

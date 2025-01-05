@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/lime_wallpaper",
+  "parent": "abyssaldecor:block/lime_wallpaper",
   "display": {
     "thirdperson": {
       "rotation": [

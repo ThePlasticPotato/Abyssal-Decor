@@ -1,7 +1,7 @@
 {
-  "parent": "abyssal_decor:custom/hangingmosswall",
+  "parent": "abyssaldecor:custom/hangingmosswall",
   "textures": {
-    "0": "abyssal_decor:block/hangingmoss",
-    "particle": "abyssal_decor:item/hangingmossceiling"
+    "0": "abyssaldecor:block/hangingmoss",
+    "particle": "abyssaldecor:item/hangingmossceiling"
   }
 }

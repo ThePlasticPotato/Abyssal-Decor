@@ -1,7 +1,7 @@
 {
   "parent": "block/pressure_plate_up",
   "textures": {
-    "texture": "abyssal_decor:block/whitewoodplanks"
+    "texture": "abyssaldecor:block/whitewoodplanks"
   },
   "render_type": "solid"
 }

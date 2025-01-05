@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/deepbronze_stairs",
+  "parent": "abyssaldecor:block/deepbronze_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

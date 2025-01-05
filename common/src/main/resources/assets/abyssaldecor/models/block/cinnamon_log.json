@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/cinnamonlogtop",
-    "up": "abyssal_decor:block/cinnamonlogtop",
-    "north": "abyssal_decor:block/cinnamonlogside",
-    "east": "abyssal_decor:block/cinnamonlogside",
-    "south": "abyssal_decor:block/cinnamonlogside",
-    "west": "abyssal_decor:block/cinnamonlogside",
-    "particle": "abyssal_decor:block/cinnamonlogtop"
+    "down": "abyssaldecor:block/cinnamonlogtop",
+    "up": "abyssaldecor:block/cinnamonlogtop",
+    "north": "abyssaldecor:block/cinnamonlogside",
+    "east": "abyssaldecor:block/cinnamonlogside",
+    "south": "abyssaldecor:block/cinnamonlogside",
+    "west": "abyssaldecor:block/cinnamonlogside",
+    "particle": "abyssaldecor:block/cinnamonlogtop"
   },
   "render_type": "solid"
 }

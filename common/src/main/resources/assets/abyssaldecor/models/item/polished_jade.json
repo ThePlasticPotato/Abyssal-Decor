@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/polished_jade",
+  "parent": "abyssaldecor:block/polished_jade",
   "display": {
     "thirdperson": {
       "rotation": [

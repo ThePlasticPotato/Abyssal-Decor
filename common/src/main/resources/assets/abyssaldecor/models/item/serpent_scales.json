@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/serpent_scales",
+  "parent": "abyssaldecor:block/serpent_scales",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssaldecor:block/seabrass_trim",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssaldecor:block/seabrass_trim"
+    },
+    "axis=z": {
+      "model": "abyssaldecor:block/seabrass_trim",
+      "x": 90
+    }
+  }
+}

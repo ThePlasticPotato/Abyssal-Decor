@@ -18,6 +18,9 @@
   "entrypoints": {
     "main": [
       "net.starrysock.abyssaldecor.fabric.AbyssalDecorFabric"
+    ],
+    "datagen": [
+      "net.starrysock.abyssaldecor.fabric.datagen.AbyssalDecorDataGenerator"
     ]
   },
   "mixins": [

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "abyssaldecor:block/amaranth3top",
+    "particle": "abyssaldecor:block/amaranth3top"
+  }
+}

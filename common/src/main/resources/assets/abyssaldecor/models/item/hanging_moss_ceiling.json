@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/hanging_moss_ceiling",
+  "parent": "abyssaldecor:block/hanging_moss_ceiling",
   "display": {
     "thirdperson": {
       "rotation": [

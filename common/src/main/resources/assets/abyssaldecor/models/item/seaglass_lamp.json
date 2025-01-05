@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/seaglass_lamp",
+  "parent": "abyssaldecor:block/seaglass_lamp",
   "display": {
     "thirdperson": {
       "rotation": [

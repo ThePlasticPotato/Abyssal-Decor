@@ -1,11 +1,8 @@
 {
-  "parent": "block/grass_block",
+  "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-    "bottom": "abyssal_decor:block/amaranthcratebottom",
-    "top": "abyssal_decor:block/amaranthcratetop",
-    "side": "abyssal_decor:block/amaranthcrate",
-    "overlay": "abyssal_decor:block/amaranthcrate",
-    "particle": "abyssal_decor:block/amaranthcratebottom"
-  },
-  "render_type": "solid"
+    "bottom": "abyssaldecor:block/amaranthcratebottom",
+    "top": "abyssaldecor:block/amaranthcratetop",
+    "side": "abyssaldecor:block/amaranthcrate"
+  }
 }

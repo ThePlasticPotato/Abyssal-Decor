@@ -1,11 +1,11 @@
 {
-  "parent": "abyssal_decor:custom/wallvines",
+  "parent": "abyssaldecor:custom/wallvines",
   "textures": {
-    "all": "abyssal_decor:block/cinnamonleaves",
-    "particle": "abyssal_decor:block/cinnamonleaves",
-    "0": "abyssal_decor:block/wallvines1",
-    "1": "abyssal_decor:block/wallvines2",
-    "2": "abyssal_decor:block/wallvines3"
+    "all": "abyssaldecor:block/cinnamonleaves",
+    "particle": "abyssaldecor:block/cinnamonleaves",
+    "0": "abyssaldecor:block/wallvines1",
+    "1": "abyssaldecor:block/wallvines2",
+    "2": "abyssaldecor:block/wallvines3"
   },
   "render_type": "cutout_mipped"
 }

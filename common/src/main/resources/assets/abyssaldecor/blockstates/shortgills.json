@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssaldecor:block/shortgills"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/shortgills",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/shortgills",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/shortgills",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "abyssaldecor:block/shortgills",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "abyssaldecor:block/shortgills",
+      "x": 90
+    }
+  }
+}

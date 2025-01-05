@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/starstonegildedtop",
-    "up": "abyssal_decor:block/starstonegildedtop",
-    "north": "abyssal_decor:block/starstone_gilded",
-    "east": "abyssal_decor:block/starstone_gilded",
-    "south": "abyssal_decor:block/starstone_gilded",
-    "west": "abyssal_decor:block/starstone_gilded",
-    "particle": "abyssal_decor:block/starstonegildedtop"
+    "down": "abyssaldecor:block/starstonegildedtop",
+    "up": "abyssaldecor:block/starstonegildedtop",
+    "north": "abyssaldecor:block/starstone_gilded",
+    "east": "abyssaldecor:block/starstone_gilded",
+    "south": "abyssaldecor:block/starstone_gilded",
+    "west": "abyssaldecor:block/starstone_gilded",
+    "particle": "abyssaldecor:block/starstonegildedtop"
   },
   "render_type": "solid"
 }

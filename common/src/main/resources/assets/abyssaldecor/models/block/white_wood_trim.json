@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/whitewoodtrimtop",
-    "up": "abyssal_decor:block/whitewoodtrimtop",
-    "north": "abyssal_decor:block/whitewoodtrim",
-    "east": "abyssal_decor:block/whitewoodtrim",
-    "south": "abyssal_decor:block/whitewoodtrim",
-    "west": "abyssal_decor:block/whitewoodtrim",
-    "particle": "abyssal_decor:block/whitewoodtrimtop"
+    "down": "abyssaldecor:block/whitewoodtrimtop",
+    "up": "abyssaldecor:block/whitewoodtrimtop",
+    "north": "abyssaldecor:block/whitewoodtrim",
+    "east": "abyssaldecor:block/whitewoodtrim",
+    "south": "abyssaldecor:block/whitewoodtrim",
+    "west": "abyssaldecor:block/whitewoodtrim",
+    "particle": "abyssaldecor:block/whitewoodtrimtop"
   },
   "render_type": "solid"
 }

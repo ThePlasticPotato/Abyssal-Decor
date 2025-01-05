@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blood_lamp_lit_mid",
+  "parent": "abyssaldecor:block/blood_lamp_lit_mid",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/serpent_small_eyes",
+  "parent": "abyssaldecor:block/serpent_small_eyes",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,7 +1,7 @@
 {
   "parent": "block/template_orientable_trapdoor_bottom",
   "textures": {
-    "texture": "abyssal_decor:blocks/whitewoodtrapdoor",
-    "particle": "abyssal_decor:blocks/whitewoodtrapdoor"
+    "texture": "abyssaldecor:blocks/whitewoodtrapdoor",
+    "particle": "abyssaldecor:blocks/whitewoodtrapdoor"
   }
 }

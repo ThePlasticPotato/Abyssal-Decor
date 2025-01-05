@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/danglingwebtop",
+  "parent": "abyssaldecor:custom/danglingwebtop",
   "textures": {
-    "all": "abyssal_decor:block/danglingwebtop",
-    "particle": "abyssal_decor:block/danglingwebtop",
-    "1": "abyssal_decor:block/danglingwebtop"
+    "all": "abyssaldecor:block/danglingwebtop",
+    "particle": "abyssaldecor:block/danglingwebtop",
+    "1": "abyssaldecor:block/danglingwebtop"
   },
   "render_type": "cutout_mipped"
 }

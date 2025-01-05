@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/velvetbarrieritem"
+    "layer0": "abyssaldecor:item/velvetbarrieritem"
   },
   "render_type": "translucent"
 }

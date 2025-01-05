@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blackwood_log",
+  "parent": "abyssaldecor:block/blackwood_log",
   "display": {
     "thirdperson": {
       "rotation": [

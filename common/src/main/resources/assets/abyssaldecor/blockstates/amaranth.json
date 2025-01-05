@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "abyssaldecor:block/amaranth_1"
+    },
+    "age=1": {
+      "model": "abyssaldecor:block/amaranth_2"
+    },
+    "age=2,half=lower": {
+      "model": "abyssaldecor:block/amaranth_3_bottom"
+    },
+    "age=2,half=upper": {
+      "model": "abyssaldecor:block/amaranth_3_top"
+    },
+    "age=3,half=lower": {
+      "model": "abyssaldecor:block/amaranth_4_bottom"
+    },
+    "age=3,half=upper": {
+      "model": "abyssaldecor:block/amaranth_4_top"
+    }
+  }
+}

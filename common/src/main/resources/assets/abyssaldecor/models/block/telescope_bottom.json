@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/telescopebottom",
+  "parent": "abyssaldecor:custom/telescopebottom",
   "textures": {
-    "all": "abyssal_decor:block/telescopetexture",
-    "particle": "abyssal_decor:block/telescopetexture",
-    "0": "abyssal_decor:block/telescopetexture"
+    "all": "abyssaldecor:block/telescopetexture",
+    "particle": "abyssaldecor:block/telescopetexture",
+    "0": "abyssaldecor:block/telescopetexture"
   },
   "render_type": "cutout_mipped"
 }

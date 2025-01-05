@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:block/dullchiseledbars"
+    "layer0": "abyssaldecor:block/dullchiseledbars"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/walljadelamp",
+  "parent": "abyssaldecor:custom/walljadelamp",
   "textures": {
-    "all": "abyssal_decor:block/walljadelamp",
-    "particle": "abyssal_decor:block/walljadelamp",
-    "1": "abyssal_decor:block/walljadelamp"
+    "all": "abyssaldecor:block/walljadelamp",
+    "particle": "abyssaldecor:block/walljadelamp",
+    "1": "abyssaldecor:block/walljadelamp"
   },
   "render_type": "cutout_mipped"
 }

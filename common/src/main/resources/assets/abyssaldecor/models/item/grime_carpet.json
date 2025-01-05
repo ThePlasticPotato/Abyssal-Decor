@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/grimecarpeticon"
+    "layer0": "abyssaldecor:item/grimecarpeticon"
   },
   "render_type": "translucent"
 }

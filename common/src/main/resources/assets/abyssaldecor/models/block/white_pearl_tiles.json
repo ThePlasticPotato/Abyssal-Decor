@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/pearlytiles",
-    "particle": "abyssal_decor:block/pearlytiles"
+    "all": "abyssaldecor:block/pearlytiles",
+    "particle": "abyssaldecor:block/pearlytiles"
   },
   "render_type": "solid"
 }

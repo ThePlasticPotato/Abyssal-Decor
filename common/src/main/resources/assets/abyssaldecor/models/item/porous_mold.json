@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/porous_mold",
+  "parent": "abyssaldecor:block/porous_mold",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/wisteria_purple_wall_mid",
+  "parent": "abyssaldecor:block/wisteria_purple_wall_mid",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/wisteriapurplewallmid",
+  "parent": "abyssaldecor:custom/wisteriapurplewallmid",
   "textures": {
-    "all": "abyssal_decor:block/wisteriapurplemid",
-    "particle": "abyssal_decor:block/wisteriapurplemid",
-    "1": "abyssal_decor:block/wisteriapurplemid"
+    "all": "abyssaldecor:block/wisteriapurplemid",
+    "particle": "abyssaldecor:block/wisteriapurplemid",
+    "1": "abyssaldecor:block/wisteriapurplemid"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/gildedlapispillartop",
-    "up": "abyssal_decor:block/gildedlapispillartop",
-    "north": "abyssal_decor:block/gildedlapispillarside",
-    "east": "abyssal_decor:block/gildedlapispillarside",
-    "south": "abyssal_decor:block/gildedlapispillarside",
-    "west": "abyssal_decor:block/gildedlapispillarside",
-    "particle": "abyssal_decor:block/gildedlapispillartop"
+    "down": "abyssaldecor:block/gildedlapispillartop",
+    "up": "abyssaldecor:block/gildedlapispillartop",
+    "north": "abyssaldecor:block/gildedlapispillarside",
+    "east": "abyssaldecor:block/gildedlapispillarside",
+    "south": "abyssaldecor:block/gildedlapispillarside",
+    "west": "abyssaldecor:block/gildedlapispillarside",
+    "particle": "abyssaldecor:block/gildedlapispillartop"
   },
   "render_type": "solid"
 }

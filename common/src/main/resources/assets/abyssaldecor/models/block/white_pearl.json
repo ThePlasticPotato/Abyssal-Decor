@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/tinywhitepearl",
+  "parent": "abyssaldecor:custom/tinywhitepearl",
   "textures": {
-    "all": "abyssal_decor:block/tinywhitepearl",
-    "particle": "abyssal_decor:block/tinywhitepearl",
-    "2": "abyssal_decor:block/tinywhitepearl"
+    "all": "abyssaldecor:block/tinywhitepearl",
+    "particle": "abyssaldecor:block/tinywhitepearl",
+    "0": "abyssaldecor:block/tinywhitepearl"
   },
   "render_type": "solid"
 }

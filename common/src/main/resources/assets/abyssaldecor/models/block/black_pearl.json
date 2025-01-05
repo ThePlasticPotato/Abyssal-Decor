@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/blackpearlplaced",
+  "parent": "abyssaldecor:custom/blackpearlplaced",
   "textures": {
-    "all": "abyssal_decor:block/blackpearlplaced",
-    "particle": "abyssal_decor:block/blackpearlplaced",
-    "1": "abyssal_decor:block/blackpearlplaced"
+    "all": "abyssaldecor:block/blackpearlplaced",
+    "particle": "abyssaldecor:block/blackpearlplaced",
+    "1": "abyssaldecor:block/blackpearlplaced"
   },
   "render_type": "solid"
 }

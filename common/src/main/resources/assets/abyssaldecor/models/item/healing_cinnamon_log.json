@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/healing_cinnamon_log",
+  "parent": "abyssaldecor:block/healing_cinnamon_log",
   "display": {
     "thirdperson": {
       "rotation": [

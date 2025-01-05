@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/mossy_cinnamon_shingle_stairs",
+  "parent": "abyssaldecor:block/mossy_cinnamon_shingle_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

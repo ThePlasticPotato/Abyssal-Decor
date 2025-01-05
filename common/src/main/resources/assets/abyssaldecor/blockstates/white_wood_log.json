@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssaldecor:block/white_wood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssaldecor:block/white_wood_log"
+    },
+    "axis=z": {
+      "model": "abyssaldecor:block/white_wood_log",
+      "x": 90
+    }
+  }
+}

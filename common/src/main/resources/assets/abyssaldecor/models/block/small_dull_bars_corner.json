@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/smalldullbarscorner",
+  "parent": "abyssaldecor:custom/smalldullbarscorner",
   "textures": {
-    "all": "abyssal_decor:block/dullironbarscorner",
-    "particle": "abyssal_decor:block/dullironbarscorner",
-    "3": "abyssal_decor:block/dullironbarscorner"
+    "all": "abyssaldecor:block/dullironbarscorner",
+    "particle": "abyssaldecor:block/dullironbarscorner",
+    "3": "abyssaldecor:block/dullironbarscorner"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/bloodcoralpillartop",
-    "up": "abyssal_decor:block/bloodcoralpillartop",
-    "north": "abyssal_decor:block/bloodcoralpillarsideflipped",
-    "east": "abyssal_decor:block/bloodcoralpillarsideflipped",
-    "south": "abyssal_decor:block/bloodcoralpillarside",
-    "west": "abyssal_decor:block/bloodcoralpillarside",
-    "particle": "abyssal_decor:block/bloodcoralpillartop"
+    "down": "abyssaldecor:block/bloodcoralpillartop",
+    "up": "abyssaldecor:block/bloodcoralpillartop",
+    "north": "abyssaldecor:block/bloodcoralpillarsideflipped",
+    "east": "abyssaldecor:block/bloodcoralpillarsideflipped",
+    "south": "abyssaldecor:block/bloodcoralpillarside",
+    "west": "abyssaldecor:block/bloodcoralpillarside",
+    "particle": "abyssaldecor:block/bloodcoralpillartop"
   },
   "render_type": "solid"
 }

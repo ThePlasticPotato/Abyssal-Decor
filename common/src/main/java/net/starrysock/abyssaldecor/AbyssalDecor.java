@@ -7,12 +7,12 @@ import dev.architectury.registry.registries.RegistrarManager;
 import dev.architectury.registry.registries.RegistrySupplier;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
+import net.minecraft.world.damagesource.DamageType;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.Block;
-import net.starrysock.abyssaldecor.registry.BlockPaletteRegistryHelper;
-import net.starrysock.abyssaldecor.registry.PaletteType;
+import net.starrysock.abyssaldecor.registry.*;
 
 import java.util.HashMap;
 import java.util.function.Supplier;
@@ -34,10 +34,12 @@ public class AbyssalDecor {
                     () -> new ItemStack(AbyssalDecor.EXAMPLE_ITEM.get())));
 
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(MOD_ID, Registries.BLOCK);
-    
+
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(MOD_ID, Registries.ITEM);
     public static final RegistrySupplier<Item> EXAMPLE_ITEM = ITEMS.register("example_item", () ->
             new Item(new Item.Properties().arch$tab(AbyssalDecor.EXAMPLE_TAB)));
+
+    public static final DeferredRegister<DamageType> DAMAGE_TYPES = DeferredRegister.create(MOD_ID, Registries.DAMAGE_TYPE);
     
     public static void init() {
         HashMap<String, PaletteType> paletteMap = new HashMap<>();
@@ -50,12 +52,21 @@ public class AbyssalDecor {
         paletteMap.put("cinnamon", PaletteType.WOOD);
         paletteMap.put("pearl", PaletteType.PEARL);
         paletteMap.put("blackpearl", PaletteType.PEARL);
+        paletteMap.put("fresnel", PaletteType.GLASSLIKE);
+        paletteMap.put("vermillion", PaletteType.FRAMED_GLASSLIKE);
+        paletteMap.put("prismarine_crystal", PaletteType.GLASSLIKE);
+        paletteMap.put("crystalized_glowstone", PaletteType.FRAMED_GLASSLIKE);
+        paletteMap.put("starglass", PaletteType.GLASSLIKE);
+        paletteMap.put("pitchglass", PaletteType.FRAMED_GLASSLIKE);
+        paletteMap.put("blood_coral", PaletteType.CORAL);
+
         //
 
         BlockPaletteRegistryHelper.init(paletteMap);
         TABS.register();
-        BLOCKS.register();
-        ITEMS.register();
+        AbyssalDecorBlocks.register();
+        AbyssalDecorItems.register();
+
         System.out.println(AbyssalDecorExpectPlatform.getConfigDirectory().toAbsolutePath().normalize().toString());
     }
 }

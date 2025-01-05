@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/blackwooddooricon"
+    "layer0": "abyssaldecor:item/blackwooddooricon"
   },
   "render_type": "translucent"
 }

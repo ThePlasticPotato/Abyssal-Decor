@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/bloodcoralbud"
+    "layer0": "abyssaldecor:item/bloodcoralbud"
   },
   "render_type": "translucent"
 }

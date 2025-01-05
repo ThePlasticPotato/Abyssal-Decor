@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/starstone_tiles",
+  "parent": "abyssaldecor:block/starstone_tiles",
   "display": {
     "thirdperson": {
       "rotation": [

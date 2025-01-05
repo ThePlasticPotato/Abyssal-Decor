@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/nithingtop",
+  "parent": "abyssaldecor:custom/nithingtop",
   "textures": {
-    "all": "abyssal_decor:block/nithingtexture",
-    "particle": "abyssal_decor:block/nithingtexture",
-    "0": "abyssal_decor:block/nithingtexture"
+    "all": "abyssaldecor:block/nithingtexture",
+    "particle": "abyssaldecor:block/nithingtexture",
+    "0": "abyssaldecor:block/nithingtexture"
   },
   "render_type": "cutout_mipped"
 }

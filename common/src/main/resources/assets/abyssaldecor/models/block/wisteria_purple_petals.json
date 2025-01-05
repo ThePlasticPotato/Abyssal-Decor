@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/wisteriapetals",
-    "particle": "abyssal_decor:block/wisteriapetals"
+    "all": "abyssaldecor:block/wisteriapetals",
+    "particle": "abyssaldecor:block/wisteriapetals"
   }
 }

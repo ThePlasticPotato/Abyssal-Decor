@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blood_coral_brick_stairs",
+  "parent": "abyssaldecor:block/blood_coral_brick_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

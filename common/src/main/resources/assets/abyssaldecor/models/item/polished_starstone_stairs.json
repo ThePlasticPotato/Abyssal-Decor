@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/polished_starstone_stairs",
+  "parent": "abyssaldecor:block/polished_starstone_stairs",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,9 +1,9 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-    "bottom": "abyssal_decor:block/serpentscales",
-    "top": "abyssal_decor:block/serpentscales",
-    "side": "abyssal_decor:block/serpentscales"
+    "bottom": "abyssaldecor:block/serpentscales",
+    "top": "abyssaldecor:block/serpentscales",
+    "side": "abyssaldecor:block/serpentscales"
   },
   "render_type": "solid"
 }

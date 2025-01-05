@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/polished_blood_coral_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/polished_blood_coral_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/polished_blood_coral_slab_full"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "abyssaldecor:block/abyssal_lantern"
+    },
+    "lit=true": {
+      "model": "abyssaldecor:block/abyssal_lantern_on"
+    }
+  }
+}

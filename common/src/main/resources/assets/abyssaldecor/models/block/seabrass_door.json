@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:blocks/brassblock",
-    "particle": "abyssal_decor:blocks/brassblock"
+    "all": "abyssaldecor:blocks/brassblock",
+    "particle": "abyssaldecor:blocks/brassblock"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/small_seabrass_pipes",
+  "parent": "abyssaldecor:block/small_seabrass_pipes",
   "display": {
     "thirdperson": {
       "rotation": [

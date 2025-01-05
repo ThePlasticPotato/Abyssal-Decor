@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/bookblocktop",
-    "up": "abyssal_decor:block/bookblocktop",
-    "north": "abyssal_decor:block/bookblocksideflipped",
-    "east": "abyssal_decor:block/bookblockfront",
-    "south": "abyssal_decor:block/bookblockside",
-    "west": "abyssal_decor:block/bookblockback",
-    "particle": "abyssal_decor:block/bookblocktop"
+    "down": "abyssaldecor:block/bookblocktop",
+    "up": "abyssaldecor:block/bookblocktop",
+    "north": "abyssaldecor:block/bookblocksideflipped",
+    "east": "abyssaldecor:block/bookblockfront",
+    "south": "abyssaldecor:block/bookblockside",
+    "west": "abyssaldecor:block/bookblockback",
+    "particle": "abyssaldecor:block/bookblocktop"
   },
   "render_type": "solid"
 }

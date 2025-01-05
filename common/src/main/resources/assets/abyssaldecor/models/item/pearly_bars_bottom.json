@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:block/pearlybarsbottom"
+    "layer0": "abyssaldecor:block/pearlybarsbottom"
   },
   "render_type": "cutout_mipped"
 }

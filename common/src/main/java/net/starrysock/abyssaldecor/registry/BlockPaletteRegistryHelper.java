@@ -6,10 +6,10 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.starrysock.abyssaldecor.AbyssalDecor;
-import net.starrysock.abyssaldecor.content.InteractibleRedstoneLampBlock;
-import net.starrysock.abyssaldecor.content.SmallBarsBlock;
-import net.starrysock.abyssaldecor.content.WallMountedInteractibleLampBlock;
-import net.starrysock.abyssaldecor.content.pipes.InteractiblePipeBlock;
+import net.starrysock.abyssaldecor.content.abstraction.lamps.InteractibleRedstoneLampBlock;
+import net.starrysock.abyssaldecor.content.abstraction.SconceBlock;
+import net.starrysock.abyssaldecor.content.abstraction.SmallBarsBlock;
+import net.starrysock.abyssaldecor.content.abstraction.pipes.InteractiblePipeBlock;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -29,14 +29,14 @@ public class BlockPaletteRegistryHelper {
                 RegistrySupplier<Block> block = switch (trueVariant) {
                     case "_button" -> AbyssalDecor.BLOCKS.register(name, () -> new ButtonBlock(BlockBehaviour.Properties.copy(Blocks.STONE_BUTTON), AbyssalBlockSetType.byName(key).toBlockSetType(), 10, true));
                     case "_pressure_plate" -> AbyssalDecor.BLOCKS.register(name, () -> new PressurePlateBlock(PressurePlateBlock.Sensitivity.EVERYTHING, BlockBehaviour.Properties.copy(Blocks.STONE_PRESSURE_PLATE), AbyssalBlockSetType.byName(key).toBlockSetType()));
-                    case "_lamp" -> AbyssalDecor.BLOCKS.register(name, () -> new InteractibleRedstoneLampBlock(type.getProperties()));
+                    case "_lamp", "_lantern" -> AbyssalDecor.BLOCKS.register(name, () -> new InteractibleRedstoneLampBlock(type.getProperties()));
                     case "_beam", "_large_pipe", "_pillar", "_log", "_wood" -> AbyssalDecor.BLOCKS.register(name, () -> new RotatedPillarBlock(type.getProperties()));
                     case "_bars", "_ornate_bars" -> AbyssalDecor.BLOCKS.register(name, () -> new IronBarsBlock(type.getProperties()));
                     case "_chain" -> AbyssalDecor.BLOCKS.register(name, () -> new ChainBlock(type.getProperties()));
                     case "_door" -> AbyssalDecor.BLOCKS.register(name, () -> new DoorBlock(type.getProperties(), AbyssalBlockSetType.byName(key).toBlockSetType()));
                     case "_trapdoor" -> AbyssalDecor.BLOCKS.register(name, () -> new TrapDoorBlock(type.getProperties(), AbyssalBlockSetType.byName(key).toBlockSetType()));
                     case "_wall" -> AbyssalDecor.BLOCKS.register(name, () -> new WallBlock(type.getProperties()));
-                    case "_sconce" -> AbyssalDecor.BLOCKS.register(name, () -> new WallMountedInteractibleLampBlock(type.getProperties()));
+                    case "_sconce" -> AbyssalDecor.BLOCKS.register(name, () -> new SconceBlock(type.getProperties()));
                     case "_pipe" -> AbyssalDecor.BLOCKS.register(name, () -> new InteractiblePipeBlock(type.getProperties()));
                     case "_slab" -> AbyssalDecor.BLOCKS.register(name, () -> new SlabBlock(type.getProperties()));
                     case "_stairs" -> AbyssalDecor.BLOCKS.register(name, () -> new StairBlock(Blocks.SANDSTONE_STAIRS.defaultBlockState(), type.getProperties()));

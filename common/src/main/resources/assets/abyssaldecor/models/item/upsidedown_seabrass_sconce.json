@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/upsidedown_seabrass_sconce",
+  "parent": "abyssaldecor:block/upsidedown_seabrass_sconce",
   "display": {
     "thirdperson": {
       "rotation": [

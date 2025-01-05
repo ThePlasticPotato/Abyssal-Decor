@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/moldyhangermid"
+    "layer0": "abyssaldecor:item/moldyhangermid"
   },
   "render_type": "translucent"
 }

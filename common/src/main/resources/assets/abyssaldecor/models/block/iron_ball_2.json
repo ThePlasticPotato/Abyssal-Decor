@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/ironball2",
+  "parent": "abyssaldecor:custom/ironball2",
   "textures": {
-    "all": "abyssal_decor:block/ironball",
-    "particle": "abyssal_decor:block/ironball",
-    "0": "abyssal_decor:block/ironball"
+    "all": "abyssaldecor:block/ironball",
+    "particle": "abyssaldecor:block/ironball",
+    "0": "abyssaldecor:block/ironball"
   },
   "render_type": "solid"
 }

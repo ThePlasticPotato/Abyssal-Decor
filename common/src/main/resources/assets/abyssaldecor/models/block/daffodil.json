@@ -1,8 +1,7 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/daffodil",
-    "particle": "abyssal_decor:block/daffodil"
-  },
-  "render_type": "cutout"
+    "cross": "abyssaldecor:block/daffodil",
+    "particle": "abyssaldecor:block/daffodil"
+  }
 }

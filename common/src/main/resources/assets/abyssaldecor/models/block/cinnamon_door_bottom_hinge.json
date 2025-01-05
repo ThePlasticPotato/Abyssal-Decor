@@ -1,7 +1,7 @@
 {
   "parent": "block/door_bottom_rh",
   "textures": {
-    "bottom": "abyssal_decor:blocks/cinnamondoorbottom",
-    "top": "abyssal_decor:blocks/cinnamondoortop"
+    "bottom": "abyssaldecor:blocks/cinnamondoorbottom",
+    "top": "abyssaldecor:blocks/cinnamondoortop"
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_side_tall",
   "textures": {
-    "wall": "abyssal_decor:blocks/brassblock",
-    "particle": "abyssal_decor:blocks/brassblock"
+    "wall": "abyssaldecor:blocks/brassblock",
+    "particle": "abyssaldecor:blocks/brassblock"
   }
 }

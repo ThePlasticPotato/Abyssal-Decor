@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/upsidedowndullironsconce",
+  "parent": "abyssaldecor:custom/upsidedowndullironsconce",
   "textures": {
-    "all": "abyssal_decor:block/dull_iron_sconce",
-    "particle": "abyssal_decor:block/dull_iron_sconce",
-    "0": "abyssal_decor:block/dull_iron_sconce"
+    "all": "abyssaldecor:block/dull_iron_sconce",
+    "particle": "abyssaldecor:block/dull_iron_sconce",
+    "0": "abyssaldecor:block/dull_iron_sconce"
   },
   "render_type": "cutout_mipped"
 }

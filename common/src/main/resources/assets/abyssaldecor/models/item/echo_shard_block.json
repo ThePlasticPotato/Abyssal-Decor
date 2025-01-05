@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/echo_shard_block",
+  "parent": "abyssaldecor:block/echo_shard_block",
   "display": {
     "thirdperson": {
       "rotation": [

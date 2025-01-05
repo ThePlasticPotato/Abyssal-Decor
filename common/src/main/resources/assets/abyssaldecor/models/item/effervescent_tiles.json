@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/effervescent_tiles",
+  "parent": "abyssaldecor:block/effervescent_tiles",
   "display": {
     "thirdperson": {
       "rotation": [

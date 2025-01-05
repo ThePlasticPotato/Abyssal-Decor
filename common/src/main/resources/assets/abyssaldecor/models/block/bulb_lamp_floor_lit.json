@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/bulblampfloorlit",
+  "parent": "abyssaldecor:custom/bulblampfloorlit",
   "textures": {
-    "all": "abyssal_decor:block/bulblamplit",
-    "particle": "abyssal_decor:block/bulblamplit",
-    "1": "abyssal_decor:block/bulblamplit"
+    "all": "abyssaldecor:block/bulblamplit",
+    "particle": "abyssaldecor:block/bulblamplit",
+    "1": "abyssaldecor:block/bulblamplit"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,8 +1,6 @@
 {
-  "parent": "block/cube_all",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/abyssallanternon",
-    "particle": "abyssal_decor:block/abyssallanternon"
-  },
-  "render_type": "solid"
+    "all": "abyssaldecor:block/abyssallanternon"
+  }
 }

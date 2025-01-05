@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/deepbronze_pillar",
+  "parent": "abyssaldecor:block/deepbronze_pillar",
   "display": {
     "thirdperson": {
       "rotation": [

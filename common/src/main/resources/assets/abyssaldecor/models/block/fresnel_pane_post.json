@@ -1,8 +1,8 @@
 {
   "parent": "block/template_glass_pane_post",
   "textures": {
-    "edge": "abyssal_decor:block/fresnelside",
-    "pane": "abyssal_decor:block/fresnelside"
+    "edge": "abyssaldecor:block/fresnelside",
+    "pane": "abyssaldecor:block/fresnelside"
   },
   "render_type": "translucent"
 }

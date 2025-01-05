@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/stone_trapdoor",
+  "parent": "abyssaldecor:block/stone_trapdoor",
   "display": {
     "thirdperson": {
       "rotation": [

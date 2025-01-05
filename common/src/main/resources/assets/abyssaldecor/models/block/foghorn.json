@@ -1,9 +1,8 @@
 {
-  "parent": "abyssal_decor:custom/foghorn",
+  "parent": "abyssaldecor:custom/foghorn",
   "textures": {
-    "all": "abyssal_decor:block/foghorn",
-    "particle": "abyssal_decor:block/foghorn",
-    "0": "abyssal_decor:block/foghorn"
-  },
-  "render_type": "cutout_mipped"
+    "all": "abyssaldecor:block/foghorn",
+    "particle": "abyssaldecor:block/foghorn",
+    "0": "abyssaldecor:block/foghorn"
+  }
 }

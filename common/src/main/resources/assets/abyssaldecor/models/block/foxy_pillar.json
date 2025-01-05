@@ -1,11 +1,11 @@
 {
   "parent": "block/grass_block",
   "textures": {
-    "bottom": "abyssal_decor:block/foxypillartop",
-    "top": "abyssal_decor:block/foxypillartopflipped",
-    "side": "abyssal_decor:block/foxypillar",
-    "overlay": "abyssal_decor:block/foxypillar",
-    "particle": "abyssal_decor:block/foxypillartop"
+    "bottom": "abyssaldecor:block/foxypillartop",
+    "top": "abyssaldecor:block/foxypillartopflipped",
+    "side": "abyssaldecor:block/foxypillar",
+    "overlay": "abyssaldecor:block/foxypillar",
+    "particle": "abyssaldecor:block/foxypillartop"
   },
   "render_type": "solid"
 }

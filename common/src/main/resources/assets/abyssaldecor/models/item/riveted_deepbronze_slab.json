@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/riveted_deepbronze_slab",
+  "parent": "abyssaldecor:block/riveted_deepbronze_slab",
   "display": {
     "thirdperson": {
       "rotation": [

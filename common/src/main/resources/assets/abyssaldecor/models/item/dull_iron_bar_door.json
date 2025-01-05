@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "abyssal_decor:item/dullironbardooritem"
+    "layer0": "abyssaldecor:item/dullironbardooritem"
   },
   "render_type": "translucent"
 }

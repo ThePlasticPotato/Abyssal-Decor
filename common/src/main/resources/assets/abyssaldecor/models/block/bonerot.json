@@ -1,8 +1,8 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/bonerot",
-    "particle": "abyssal_decor:block/bonerot"
+    "cross": "abyssaldecor:block/bonerot",
+    "particle": "abyssaldecor:block/bonerot"
   },
   "render_type": "cutout_mipped"
 }

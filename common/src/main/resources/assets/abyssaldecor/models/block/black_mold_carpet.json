@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/blackmoldcarpet",
+  "parent": "abyssaldecor:custom/blackmoldcarpet",
   "textures": {
-    "all": "abyssal_decor:block/inactivemold",
-    "particle": "abyssal_decor:block/inactivemold",
-    "0": "abyssal_decor:block/blackmold"
+    "all": "abyssaldecor:block/inactivemold",
+    "particle": "abyssaldecor:block/inactivemold",
+    "0": "abyssaldecor:block/blackmold"
   },
   "render_type": "solid"
 }

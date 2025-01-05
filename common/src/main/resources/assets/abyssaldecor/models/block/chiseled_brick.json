@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/chiseledbrick",
-    "particle": "abyssal_decor:block/chiseledbrick"
+    "all": "abyssaldecor:block/chiseledbrick",
+    "particle": "abyssaldecor:block/chiseledbrick"
   },
   "render_type": "solid"
 }

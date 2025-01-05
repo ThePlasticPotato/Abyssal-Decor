@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/seaglasslamplit",
+  "parent": "abyssaldecor:custom/seaglasslamplit",
   "textures": {
-    "all": "abyssal_decor:block/seaglasslamplit",
-    "particle": "abyssal_decor:block/seaglasslamplit",
-    "2": "abyssal_decor:block/seaglasslamplit"
+    "all": "abyssaldecor:block/seaglasslamplit",
+    "particle": "abyssaldecor:block/seaglasslamplit",
+    "2": "abyssaldecor:block/seaglasslamplit"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/quartzbonetop",
-    "up": "abyssal_decor:block/quartzbonetop",
-    "north": "abyssal_decor:block/quartzboneside",
-    "east": "abyssal_decor:block/quartzboneside",
-    "south": "abyssal_decor:block/quartzboneside",
-    "west": "abyssal_decor:block/quartzboneside",
-    "particle": "abyssal_decor:block/quartzbonetop"
+    "down": "abyssaldecor:block/quartzbonetop",
+    "up": "abyssaldecor:block/quartzbonetop",
+    "north": "abyssaldecor:block/quartzboneside",
+    "east": "abyssaldecor:block/quartzboneside",
+    "south": "abyssaldecor:block/quartzboneside",
+    "west": "abyssaldecor:block/quartzboneside",
+    "particle": "abyssaldecor:block/quartzbonetop"
   },
   "render_type": "solid"
 }

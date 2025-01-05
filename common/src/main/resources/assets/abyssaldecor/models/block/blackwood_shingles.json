@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/blackwoodshingles",
-    "particle": "abyssal_decor:block/blackwoodshingles"
+    "all": "abyssaldecor:block/blackwoodshingles",
+    "particle": "abyssaldecor:block/blackwoodshingles"
   },
   "render_type": "solid"
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/cinnamon_shingles",
+  "parent": "abyssaldecor:block/cinnamon_shingles",
   "display": {
     "thirdperson": {
       "rotation": [

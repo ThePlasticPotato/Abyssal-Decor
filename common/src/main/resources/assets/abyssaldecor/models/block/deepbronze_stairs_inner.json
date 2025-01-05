@@ -1,9 +1,9 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
-    "bottom": "abyssal_decor:block/bronzeblock",
-    "top": "abyssal_decor:block/bronzeblock",
-    "side": "abyssal_decor:block/bronzeblock"
+    "bottom": "abyssaldecor:block/bronzeblock",
+    "top": "abyssaldecor:block/bronzeblock",
+    "side": "abyssaldecor:block/bronzeblock"
   },
   "render_type": "solid"
 }

@@ -1,7 +1,7 @@
 {
   "parent": "block/pressure_plate_up",
   "textures": {
-    "texture": "abyssal_decor:block/bronzeblock"
+    "texture": "abyssaldecor:block/bronzeblock"
   },
   "render_type": "solid"
 }

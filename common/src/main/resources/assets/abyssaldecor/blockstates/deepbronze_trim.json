@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssaldecor:block/deepbronze_trim",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssaldecor:block/deepbronze_trim"
+    },
+    "axis=z": {
+      "model": "abyssaldecor:block/deepbronze_trim",
+      "x": 90
+    }
+  }
+}

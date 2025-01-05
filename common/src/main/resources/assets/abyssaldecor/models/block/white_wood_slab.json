@@ -1,9 +1,8 @@
 {
   "parent": "block/slab",
   "textures": {
-    "bottom": "abyssal_decor:block/whitewoodplanks",
-    "top": "abyssal_decor:block/whitewoodplanks",
-    "side": "abyssal_decor:block/whitewoodplanks"
-  },
-  "render_type": "solid"
+    "bottom": "abyssaldecor:block/whitewoodplanks",
+    "top": "abyssaldecor:block/whitewoodplanks",
+    "side": "abyssaldecor:block/whitewoodplanks"
+  }
 }

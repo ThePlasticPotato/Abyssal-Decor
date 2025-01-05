@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/small_netted_eye",
+  "parent": "abyssaldecor:block/small_netted_eye",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/lunar_rod",
+  "parent": "abyssaldecor:custom/lunar_rod",
   "textures": {
-    "all": "abyssal_decor:block/deeprod",
-    "particle": "abyssal_decor:block/deeprod",
-    "2": "abyssal_decor:block/deeprod"
+    "all": "abyssaldecor:block/deeprod",
+    "particle": "abyssaldecor:block/deeprod",
+    "2": "abyssaldecor:block/deeprod"
   },
   "render_type": "cutout_mipped"
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/wisteria_elder_bottom",
+  "parent": "abyssaldecor:block/wisteria_elder_bottom",
   "display": {
     "thirdperson": {
       "rotation": [

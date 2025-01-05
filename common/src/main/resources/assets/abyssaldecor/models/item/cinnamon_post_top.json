@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/cinnamon_post_top",
+  "parent": "abyssaldecor:block/cinnamon_post_top",
   "display": {
     "thirdperson": {
       "rotation": [

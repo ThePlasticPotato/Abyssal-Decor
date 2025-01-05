@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/black_mold_carpet",
+  "parent": "abyssaldecor:block/black_mold_carpet",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/damaged_serpent_scale_slab",
+  "parent": "abyssaldecor:block/damaged_serpent_scale_slab",
   "display": {
     "thirdperson": {
       "rotation": [

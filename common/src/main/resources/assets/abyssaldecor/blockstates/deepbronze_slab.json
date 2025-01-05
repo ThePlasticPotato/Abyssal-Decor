@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/deepbronze_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/deepbronze_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/deepbronze_slab_full"
+    }
+  }
+}

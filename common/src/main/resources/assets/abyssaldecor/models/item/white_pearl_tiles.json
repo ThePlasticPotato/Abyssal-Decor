@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/white_pearl_tiles",
+  "parent": "abyssaldecor:block/white_pearl_tiles",
   "display": {
     "thirdperson": {
       "rotation": [

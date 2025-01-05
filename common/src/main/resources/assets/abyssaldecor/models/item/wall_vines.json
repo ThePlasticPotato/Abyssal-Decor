@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/wall_vines",
+  "parent": "abyssaldecor:block/wall_vines",
   "display": {
     "thirdperson": {
       "rotation": [

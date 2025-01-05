@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/paper_stack",
+  "parent": "abyssaldecor:block/paper_stack",
   "display": {
     "thirdperson": {
       "rotation": [

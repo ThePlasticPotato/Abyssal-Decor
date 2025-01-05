@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/moldy_book_block",
+  "parent": "abyssaldecor:block/moldy_book_block",
   "display": {
     "thirdperson": {
       "rotation": [

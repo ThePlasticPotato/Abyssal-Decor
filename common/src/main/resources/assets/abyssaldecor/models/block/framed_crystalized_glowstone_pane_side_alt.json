@@ -1,8 +1,8 @@
 {
   "parent": "block/template_glass_pane_side_alt",
   "textures": {
-    "edge": "abyssal_decor:block/framedglowstonepanetop",
-    "pane": "abyssal_decor:block/framedglowstonepane"
+    "edge": "abyssaldecor:block/blanktexture16x16",
+    "pane": "abyssaldecor:block/framedglowstonepane"
   },
   "render_type": "translucent"
 }

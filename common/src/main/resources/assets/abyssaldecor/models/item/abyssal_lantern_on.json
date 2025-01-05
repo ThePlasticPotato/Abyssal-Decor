@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/abyssal_lantern_on",
+  "parent": "abyssaldecor:block/abyssal_lantern_on",
   "display": {
     "thirdperson": {
       "rotation": [

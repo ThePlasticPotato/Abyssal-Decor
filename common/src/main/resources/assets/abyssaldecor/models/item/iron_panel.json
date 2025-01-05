@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/iron_panel",
+  "parent": "abyssaldecor:block/iron_panel",
   "display": {
     "thirdperson": {
       "rotation": [

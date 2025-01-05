@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/ribbed_veins",
+  "parent": "abyssaldecor:block/ribbed_veins",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/cracked_bricks_4",
+  "parent": "abyssaldecor:block/cracked_bricks_4",
   "display": {
     "thirdperson": {
       "rotation": [

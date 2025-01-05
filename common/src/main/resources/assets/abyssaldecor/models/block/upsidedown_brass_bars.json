@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/upsidedownbrasssmallbars",
+  "parent": "abyssaldecor:custom/upsidedownbrasssmallbars",
   "textures": {
-    "all": "abyssal_decor:block/smallbarsbrass",
-    "particle": "abyssal_decor:block/smallbarsbrass",
-    "1": "abyssal_decor:block/smallbarsbrass"
+    "all": "abyssaldecor:block/smallbarsbrass",
+    "particle": "abyssaldecor:block/smallbarsbrass",
+    "1": "abyssaldecor:block/smallbarsbrass"
   },
   "render_type": "cutout_mipped"
 }

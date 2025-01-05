@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/grime_ceiling",
+  "parent": "abyssaldecor:block/grime_ceiling",
   "display": {
     "thirdperson": {
       "rotation": [

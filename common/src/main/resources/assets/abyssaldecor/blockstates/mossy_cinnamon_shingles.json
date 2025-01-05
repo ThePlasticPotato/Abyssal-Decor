@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssaldecor:block/mossy_cinnamon_shingles",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssaldecor:block/mossy_cinnamon_shingles"
+    },
+    "axis=z": {
+      "model": "abyssaldecor:block/mossy_cinnamon_shingles",
+      "x": 90
+    }
+  }
+}

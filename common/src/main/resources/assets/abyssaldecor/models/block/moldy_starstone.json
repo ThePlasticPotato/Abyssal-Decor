@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/moldystarstone",
-    "particle": "abyssal_decor:block/moldystarstone"
+    "all": "abyssaldecor:block/moldystarstone",
+    "particle": "abyssaldecor:block/moldystarstone"
   },
   "render_type": "solid"
 }

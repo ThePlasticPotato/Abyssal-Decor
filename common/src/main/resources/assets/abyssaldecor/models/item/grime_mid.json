@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/grime_mid",
+  "parent": "abyssaldecor:block/grime_mid",
   "display": {
     "thirdperson": {
       "rotation": [

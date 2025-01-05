@@ -1,7 +1,7 @@
 {
   "parent": "block/template_glass_pane_side",
   "textures": {
-    "edge": "abyssal_decor:blocks/blanktexture16x16",
-    "pane": "abyssal_decor:blocks/smallbarsdull"
+    "edge": "abyssaldecor:blocks/blanktexture16x16",
+    "pane": "abyssaldecor:blocks/smallbarsdull"
   }
 }

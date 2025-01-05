@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/wool_curtain_mid",
+  "parent": "abyssaldecor:block/wool_curtain_mid",
   "display": {
     "thirdperson": {
       "rotation": [

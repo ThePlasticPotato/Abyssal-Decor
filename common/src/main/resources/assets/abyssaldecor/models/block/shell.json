@@ -1,10 +1,10 @@
 {
-  "parent": "abyssal_decor:custom/shell",
+  "parent": "abyssaldecor:custom/shell",
   "textures": {
-    "all": "abyssal_decor:block/shelltop",
-    "particle": "abyssal_decor:block/shelltop",
-    "0": "abyssal_decor:block/shelltop",
-    "1": "abyssal_decor:block/shellbottom"
+    "all": "abyssaldecor:block/shelltop",
+    "particle": "abyssaldecor:block/shelltop",
+    "0": "abyssaldecor:block/shelltop",
+    "1": "abyssaldecor:block/shellbottom"
   },
   "render_type": "cutout_mipped"
 }

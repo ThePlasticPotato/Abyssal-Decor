@@ -1,8 +1,8 @@
 {
   "parent": "block/template_orientable_trapdoor_open",
   "textures": {
-    "texture": "abyssal_decor:block/brasstrapdoor",
-    "particle": "abyssal_decor:block/brasstrapdoor"
+    "texture": "abyssaldecor:block/brasstrapdoor",
+    "particle": "abyssaldecor:block/brasstrapdoor"
   },
   "render_type": "cutout_mipped"
 }

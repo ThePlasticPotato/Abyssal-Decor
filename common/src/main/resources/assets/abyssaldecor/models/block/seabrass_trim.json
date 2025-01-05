@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "abyssal_decor:block/brasstrim90",
-    "up": "abyssal_decor:block/brasstrim180",
-    "north": "abyssal_decor:block/brasstrim",
-    "east": "abyssal_decor:block/brasstrim",
-    "south": "abyssal_decor:block/brasstrimflipped",
-    "west": "abyssal_decor:block/brasstrim90u",
-    "particle": "abyssal_decor:block/brasstrim90"
+    "down": "abyssaldecor:block/brasstrim90",
+    "up": "abyssaldecor:block/brasstrim180",
+    "north": "abyssaldecor:block/brasstrim",
+    "east": "abyssaldecor:block/brasstrim",
+    "south": "abyssaldecor:block/brasstrimflipped",
+    "west": "abyssaldecor:block/brasstrim90u",
+    "particle": "abyssaldecor:block/brasstrim90"
   },
   "render_type": "solid"
 }

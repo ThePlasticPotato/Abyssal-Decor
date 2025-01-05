@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/verticalpearlybars",
+  "parent": "abyssaldecor:custom/verticalpearlybars",
   "textures": {
-    "all": "abyssal_decor:block/verticalpearlybars",
-    "particle": "abyssal_decor:block/verticalpearlybars",
-    "0": "abyssal_decor:block/verticalpearlybars"
+    "all": "abyssaldecor:block/verticalpearlybars",
+    "particle": "abyssaldecor:block/verticalpearlybars",
+    "0": "abyssaldecor:block/verticalpearlybars"
   },
   "render_type": "cutout_mipped"
 }

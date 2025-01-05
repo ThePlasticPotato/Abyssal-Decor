@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/heartoseaitemblock",
+  "parent": "abyssaldecor:custom/heartoseaitemblock",
   "textures": {
-    "all": "abyssal_decor:block/heartoseablock",
-    "particle": "abyssal_decor:block/heartoseablock",
-    "1": "abyssal_decor:block/heartoseablock"
+    "all": "abyssaldecor:block/heartoseablock",
+    "particle": "abyssaldecor:block/heartoseablock",
+    "1": "abyssaldecor:block/heartoseablock"
   },
   "render_type": "solid"
 }

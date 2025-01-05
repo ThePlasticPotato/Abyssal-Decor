@@ -1,8 +1,6 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/muckroot2",
-    "particle": "abyssal_decor:block/muckroot2"
-  },
-  "render_type": "cutout_mipped"
+    "cross": "abyssaldecor:block/muckroot2"
+  }
 }

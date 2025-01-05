@@ -1,9 +1,9 @@
 {
-  "parent": "abyssal_decor:custom/starfishpink1",
+  "parent": "abyssaldecor:custom/starfishpink1",
   "textures": {
-    "all": "abyssal_decor:block/starfishpink1",
-    "particle": "abyssal_decor:block/starfishpink1",
-    "0": "abyssal_decor:block/starfishpink1"
+    "all": "abyssaldecor:block/starfishpink1",
+    "particle": "abyssaldecor:block/starfishpink1",
+    "0": "abyssaldecor:block/starfishpink1"
   },
   "render_type": "cutout_mipped"
 }

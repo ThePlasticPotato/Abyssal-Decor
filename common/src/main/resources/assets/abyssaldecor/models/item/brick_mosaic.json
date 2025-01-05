@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/brick_mosaic",
+  "parent": "abyssaldecor:block/brick_mosaic",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/blood_lantern",
+  "parent": "abyssaldecor:block/blood_lantern",
   "display": {
     "thirdperson": {
       "rotation": [

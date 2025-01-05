@@ -1,8 +1,8 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/danglingwebtop",
-    "particle": "abyssal_decor:block/danglingwebtop"
+    "cross": "abyssaldecor:block/danglingwebtop",
+    "particle": "abyssaldecor:block/danglingwebtop"
   },
   "render_type": "cutout_mipped"
 }

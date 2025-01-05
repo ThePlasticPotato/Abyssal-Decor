@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/flaky_scales",
+  "parent": "abyssaldecor:block/flaky_scales",
   "display": {
     "thirdperson": {
       "rotation": [

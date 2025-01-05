@@ -1,7 +1,7 @@
 {
   "parent": "block/template_glass_pane_noside",
   "textures": {
-    "pane": "abyssal_decor:block/fresnelside"
+    "pane": "abyssaldecor:block/fresnelside"
   },
   "render_type": "translucent"
 }

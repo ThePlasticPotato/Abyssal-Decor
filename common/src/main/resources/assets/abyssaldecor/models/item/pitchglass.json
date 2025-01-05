@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/pitchglass",
+  "parent": "abyssaldecor:block/pitchglass",
   "display": {
     "thirdperson": {
       "rotation": [

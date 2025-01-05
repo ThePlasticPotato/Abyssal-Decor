@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/jade_lantern_off",
+  "parent": "abyssaldecor:block/jade_lantern_off",
   "display": {
     "thirdperson": {
       "rotation": [

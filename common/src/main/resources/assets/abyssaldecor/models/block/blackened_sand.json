@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/blackenedsand",
-    "particle": "abyssal_decor:block/blackenedsand"
+    "all": "abyssaldecor:block/blackenedsand",
+    "particle": "abyssaldecor:block/blackenedsand"
   },
   "render_type": "solid"
 }

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/pearl_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/pearl_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/pearl_slab_full"
+    }
+  }
+}

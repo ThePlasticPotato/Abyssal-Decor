@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/upsidedown_bronze_bars",
+  "parent": "abyssaldecor:block/upsidedown_bronze_bars",
   "display": {
     "thirdperson": {
       "rotation": [

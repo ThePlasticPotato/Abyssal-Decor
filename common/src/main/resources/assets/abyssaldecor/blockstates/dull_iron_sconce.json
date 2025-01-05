@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abyssaldecor:block/dull_iron_sconce"
+    },
+    "facing=east": {
+      "model": "abyssaldecor:block/dull_iron_sconce",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abyssaldecor:block/dull_iron_sconce",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abyssaldecor:block/dull_iron_sconce",
+      "y": 270
+    }
+  }
+}

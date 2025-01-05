@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/inv_vertical_pearl_bars",
+  "parent": "abyssaldecor:block/inv_vertical_pearl_bars",
   "display": {
     "thirdperson": {
       "rotation": [

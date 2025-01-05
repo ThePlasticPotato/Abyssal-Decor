@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/placed_heart_o_sea",
+  "parent": "abyssaldecor:block/placed_heart_o_sea",
   "display": {
     "thirdperson": {
       "rotation": [

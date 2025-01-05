@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/floor_quartz_lamp",
+  "parent": "abyssaldecor:block/floor_quartz_lamp",
   "display": {
     "thirdperson": {
       "rotation": [

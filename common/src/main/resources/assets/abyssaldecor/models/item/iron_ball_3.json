@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/iron_ball_3",
+  "parent": "abyssaldecor:block/iron_ball_3",
   "display": {
     "thirdperson": {
       "rotation": [

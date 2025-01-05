@@ -1,8 +1,8 @@
 {
   "parent": "block/template_glass_pane_side",
   "textures": {
-    "edge": "abyssal_decor:block/bloodcoralpolished",
-    "pane": "abyssal_decor:block/bloodcoralbarssolo"
+    "edge": "abyssaldecor:block/bloodcoralpolished",
+    "pane": "abyssaldecor:block/bloodcoralbarssolo"
   },
   "render_type": "cutout_mipped"
 }

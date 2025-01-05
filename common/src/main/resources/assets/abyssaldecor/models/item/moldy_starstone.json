@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/moldy_starstone",
+  "parent": "abyssaldecor:block/moldy_starstone",
   "display": {
     "thirdperson": {
       "rotation": [

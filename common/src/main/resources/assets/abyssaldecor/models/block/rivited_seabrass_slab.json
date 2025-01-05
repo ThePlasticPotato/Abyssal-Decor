@@ -1,9 +1,9 @@
 {
   "parent": "block/slab",
   "textures": {
-    "bottom": "abyssal_decor:block/brassriveted",
-    "top": "abyssal_decor:block/brassriveted",
-    "side": "abyssal_decor:block/brassriveteddoubleslab"
+    "bottom": "abyssaldecor:block/brassriveted",
+    "top": "abyssaldecor:block/brassriveted",
+    "side": "abyssaldecor:block/brassriveteddoubleslab"
   },
   "render_type": "solid"
 }

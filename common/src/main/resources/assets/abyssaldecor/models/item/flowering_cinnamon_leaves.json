@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/flowering_cinnamon_leaves",
+  "parent": "abyssaldecor:block/flowering_cinnamon_leaves",
   "display": {
     "thirdperson": {
       "rotation": [

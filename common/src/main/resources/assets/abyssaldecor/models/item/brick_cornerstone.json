@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/brick_cornerstone",
+  "parent": "abyssaldecor:block/brick_cornerstone",
   "display": {
     "thirdperson": {
       "rotation": [

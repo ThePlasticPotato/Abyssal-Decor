@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/polished_effervescence",
+  "parent": "abyssaldecor:block/polished_effervescence",
   "display": {
     "thirdperson": {
       "rotation": [

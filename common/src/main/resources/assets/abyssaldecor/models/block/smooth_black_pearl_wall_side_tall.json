@@ -1,8 +1,8 @@
 {
   "parent": "block/template_wall_side_tall",
   "textures": {
-    "wall": "abyssal_decor:block/blackpearlsmooth",
-    "particle": "abyssal_decor:block/blackpearlsmooth"
+    "wall": "abyssaldecor:block/blackpearlsmooth",
+    "particle": "abyssaldecor:block/blackpearlsmooth"
   },
   "render_type": "solid"
 }

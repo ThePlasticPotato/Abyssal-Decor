@@ -1,8 +1,8 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/feverblossomcrop6",
-    "particle": "abyssal_decor:block/feverblossomcrop6"
+    "cross": "abyssaldecor:block/feverblossomcrop6",
+    "particle": "abyssaldecor:block/feverblossomcrop6"
   },
   "render_type": "cutout_mipped"
 }

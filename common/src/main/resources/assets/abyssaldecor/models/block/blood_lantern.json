@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "abyssal_decor:block/bloodlampunlitsolo",
-    "particle": "abyssal_decor:block/bloodlampunlitsolo"
+    "all": "abyssaldecor:block/bloodlampunlitsolo",
+    "particle": "abyssaldecor:block/bloodlampunlitsolo"
   },
   "render_type": "solid"
 }

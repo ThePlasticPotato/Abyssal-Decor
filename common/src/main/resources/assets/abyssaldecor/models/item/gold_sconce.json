@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/gold_sconce",
+  "parent": "abyssaldecor:block/gold_sconce",
   "display": {
     "thirdperson": {
       "rotation": [

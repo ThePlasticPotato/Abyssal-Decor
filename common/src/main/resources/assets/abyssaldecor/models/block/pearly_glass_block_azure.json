@@ -1,11 +1,11 @@
 {
   "parent": "block/grass_block",
   "textures": {
-    "bottom": "abyssal_decor:block/pearlyglassazure",
-    "top": "abyssal_decor:block/pearlyglassazure",
-    "side": "abyssal_decor:block/pearlyglasspaneazure",
-    "overlay": "abyssal_decor:block/pearlyglasspaneazure",
-    "particle": "abyssal_decor:block/pearlyglassazure"
+    "bottom": "abyssaldecor:block/pearlyglassazure",
+    "top": "abyssaldecor:block/pearlyglassazure",
+    "side": "abyssaldecor:block/pearlyglasspaneazure",
+    "overlay": "abyssaldecor:block/pearlyglasspaneazure",
+    "particle": "abyssaldecor:block/pearlyglassazure"
   },
   "render_type": "solid"
 }

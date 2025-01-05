@@ -1,8 +1,8 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "abyssal_decor:block/moldystalks",
-    "particle": "abyssal_decor:block/moldystalks"
+    "cross": "abyssaldecor:block/moldystalks",
+    "particle": "abyssaldecor:block/moldystalks"
   },
   "render_type": "cutout"
 }

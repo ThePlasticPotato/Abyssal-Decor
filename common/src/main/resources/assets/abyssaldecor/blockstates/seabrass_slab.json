@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssaldecor:block/seabrass_slab"
+    },
+    "type=top": {
+      "model": "abyssaldecor:block/seabrass_slab_top"
+    },
+    "type=double": {
+      "model": "abyssaldecor:block/seabrass_slab_full"
+    }
+  }
+}

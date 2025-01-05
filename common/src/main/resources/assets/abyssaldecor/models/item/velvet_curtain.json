@@ -1,5 +1,5 @@
 {
-  "parent": "abyssal_decor:block/velvet_curtain",
+  "parent": "abyssaldecor:block/velvet_curtain",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -1,9 +1,9 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-    "bottom": "abyssal_decor:block/brassblock",
-    "top": "abyssal_decor:block/brassblock",
-    "side": "abyssal_decor:block/brassblockdoubleslab"
+    "bottom": "abyssaldecor:block/brassblock",
+    "top": "abyssaldecor:block/brassblock",
+    "side": "abyssaldecor:block/brassblockdoubleslab"
   },
   "render_type": "solid"
 }
